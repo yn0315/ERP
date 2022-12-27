@@ -1,0 +1,80 @@
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\user\Desktop\C#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\bin\Debug\ERP_MODULE.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\bin\Debug\ERP_MODULE.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CopyComplete
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\bin\Debug\ERP_MODULE.dll
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\bin\Debug\ERP_MODULE.pdb
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CopyComplete
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\user\Desktop\ERP프로젝트\ERPProject\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\bin\Debug\ERP_MODULE.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\bin\Debug\ERP_MODULE.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CopyComplete
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\bin\Debug\ERP_MODULE.dll
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\bin\Debug\ERP_MODULE.pdb
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.Form1.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.Form2.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.Form4.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.Form5.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.Properties.Resources.resources
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.GenerateResource.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CoreCompileInputs.cache
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CopyComplete
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.exe
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\bin\Debug\ERPProject.pdb

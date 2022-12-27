@@ -1,0 +1,6 @@
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERP_MODULE\bin\Debug\ERP_MODULE.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERP_MODULE\bin\Debug\ERP_MODULE.pdb
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERP_MODULE\obj\Debug\ERP_MODULE.csproj.AssemblyReference.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERP_MODULE\obj\Debug\ERP_MODULE.csproj.CoreCompileInputs.cache
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERP_MODULE\obj\Debug\ERP_MODULE.dll
+C:\Users\woong\Desktop\c#프로젝트\ERPProject\ERP_MODULE\obj\Debug\ERP_MODULE.pdb
