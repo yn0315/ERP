@@ -2352,7 +2352,6 @@ namespace ERPProject
             panel30.BringToFront();
             panel30.Visible = true;
             
-
             int rowindex = dataGridView7.CurrentRow.Index;
             string RowIndexSelectElement = "";
 
@@ -2371,9 +2370,9 @@ namespace ERPProject
 
                 }
             }
+           
 
-            
-            
+
         }
 
         private void button21_Click(object sender, EventArgs e)
@@ -2386,9 +2385,47 @@ namespace ERPProject
         {
             //발주현황 팝업창 안에 수정 버튼
             panel30.Visible = false;
-           
 
-            
+
+            //텍스트박스 내용 텍스트문서에 옮기는 과정필요
+
+            try
+            {
+                string fileName = textBox40.Text.ToString();
+                string filename = dtif + "\\직원관리\\재고팀\\발주" + "\\" + fileName + ".txt";
+
+                FileStream fs = new FileStream(filename, FileMode.Open);//발주 신청 등록 텍스트
+
+                //File.WriteAllText(filename, textBox57.Text);
+                StreamWriter writer = new StreamWriter(fs);
+
+                //writer = File.CreateText(filename);
+                writer.Write(DateTime.Now.ToString() + "\t");
+                writer.Write(textBox40.Text + "\t");//품목코드
+                writer.Write(textBox37.Text + "\t");//품목명
+                writer.Write(textBox41.Text + "\t");//가맹점
+                writer.Write(textBox43.Text + "\t");//수량
+                writer.Write(textBox38.Text + "\n");//담당자
+
+                writer.Close();
+                fs.Close();
+
+                writer.Dispose();
+                fs.Dispose();
+
+                //textBox37.Text = "";
+                //textBox38.Text = "";
+                //textBox40.Text = "";
+                //textBox41.Text = "";
+                //textBox43.Text = "";
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, ex.ToString());
+            }
+
+
         }
 
         private void textBox37_TextChanged(object sender, EventArgs e)
@@ -2648,7 +2685,47 @@ namespace ERPProject
             panel50.Visible = true;
             //입고현황 등록버튼
 
-            
+            //텍스트박스 내용 텍스트문서에 옮기는 과정필요
+
+            try
+            {
+                string fileName = textBox40.Text.ToString();
+                string filename = dtif + "\\직원관리\\재고팀\\발주" + "\\" + fileName + ".txt";
+
+                FileStream fs = new FileStream(filename, FileMode.Open);//발주 신청 등록 텍스트
+
+                //File.WriteAllText(filename, textBox57.Text);
+                StreamWriter writer = new StreamWriter(fs);
+
+                //writer = File.CreateText(filename);
+                writer.Write(DateTime.Now.ToString() + "\t");
+                writer.Write(textBox40.Text + "\t");//품목코드
+                writer.Write(textBox37.Text + "\t");//품목명
+                writer.Write(textBox41.Text + "\t");//가맹점
+                writer.Write(textBox43.Text + "\t");//수량
+                writer.Write(textBox38.Text + "\n");//담당자
+
+                writer.Close();
+                fs.Close();
+
+                writer.Dispose();
+                fs.Dispose();
+
+                //textBox37.Text = "";
+                //textBox38.Text = "";
+                //textBox40.Text = "";
+                //textBox41.Text = "";
+                //textBox43.Text = "";
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, ex.ToString());
+            }
+
+
+
+
         }
 
         //발주현황 컬럼명 추가
@@ -3099,9 +3176,10 @@ namespace ERPProject
 
         private void button52_Click(object sender, EventArgs e)
         {
-            //수리입고현황 등록버튼
+            //수리입고현황 수정버튼
             panel67.Visible = true;
             panel67.BringToFront();
+
         }
 
         private void gridShowRepairWarehousing()

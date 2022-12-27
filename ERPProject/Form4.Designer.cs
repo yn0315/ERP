@@ -434,7 +434,6 @@
             // 
             this.uiPanel_Main.Controls.Add(this.button4);
             this.uiPanel_Main.Controls.Add(this.panel2);
-            this.uiPanel_Main.Controls.Add(this.panel56);
             this.uiPanel_Main.Controls.Add(this.panel64);
             this.uiPanel_Main.Controls.Add(this.panel60);
             this.uiPanel_Main.Controls.Add(this.panel37);
@@ -460,6 +459,7 @@
             this.uiPanel_Main.Controls.Add(this.panel6);
             this.uiPanel_Main.Controls.Add(this.panel16);
             this.uiPanel_Main.Controls.Add(this.panel30);
+            this.uiPanel_Main.Controls.Add(this.panel56);
             this.uiPanel_Main.Location = new System.Drawing.Point(-9, -7);
             this.uiPanel_Main.Name = "uiPanel_Main";
             this.uiPanel_Main.Size = new System.Drawing.Size(1442, 684);
@@ -2959,7 +2959,7 @@
             this.button52.Name = "button52";
             this.button52.Size = new System.Drawing.Size(75, 23);
             this.button52.TabIndex = 6;
-            this.button52.Text = "등 록";
+            this.button52.Text = "수 정";
             this.button52.UseVisualStyleBackColor = false;
             this.button52.Click += new System.EventHandler(this.button52_Click);
             // 
