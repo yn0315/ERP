@@ -2389,6 +2389,8 @@ namespace ERPProject
 
             //텍스트박스 내용 텍스트문서에 옮기는 과정필요
 
+            //텍스트박스 내용 텍스트문서에 옮기는 과정필요
+
             try
             {
                 string fileName = textBox40.Text.ToString();
@@ -2424,7 +2426,6 @@ namespace ERPProject
             {
                 MessageBox.Show(ex.Message, ex.ToString());
             }
-
 
         }
 
@@ -2549,27 +2550,27 @@ namespace ERPProject
                 string fileName = textBox57.Text.ToString();
                 string filename = dtif + "\\직원관리\\재고팀\\입고품목" + "\\" + fileName + ".txt";
 
-                FileStream fs = new FileStream(filename, FileMode.Create);//입고등록 텍스트
+                //FileStream fs = new FileStream(filename, FileMode.Create);//입고등록 텍스트
 
                 //File.WriteAllText(filename, textBox57.Text);
-                StreamWriter writer = new StreamWriter(fs);
+                StreamWriter writer = new StreamWriter(filename);
 
                 //writer = File.CreateText(filename);
                 writer.Write(DateTime.Now.ToString() + "\t");
-                writer.Write(textBox57.Text + "\t");
-                writer.Write(textBox61.Text + "\t");
-                writer.Write(textBox59.Text + "\t");
-                writer.Write(textBox58.Text + "\t");
-                writer.Write(textBox60.Text + "\t");
-                writer.Write(textBox62.Text + "\t");
-                writer.Write(textBox63.Text + "\n");
+                writer.Write(textBox57.Text + "\t");//품목코드
+                writer.Write(textBox61.Text + "\t");//품목명
+                writer.Write(textBox59.Text + "\t");//창고명
+                writer.Write(textBox58.Text + "\t");//수량
+                writer.Write(textBox60.Text + "\t");//배송담당
+                writer.Write(textBox62.Text + "\t");//연락처
+                writer.Write(textBox63.Text + "\n");//내용
 
 
                 writer.Close();
-                fs.Close();
+                //fs.Close();
 
                 writer.Dispose();
-                fs.Dispose();
+                //fs.Dispose();
 
                 textBox57.Text = "";
                 textBox61.Text = "";
@@ -2652,7 +2653,7 @@ namespace ERPProject
 
         private void textBox85_TextChanged(object sender, EventArgs e)
         {
-            //입고등록 팝업 품목명 텍스트
+            //입고등록 팝업 품목 텍스트
         }
 
         private void textBox87_TextChanged(object sender, EventArgs e)
@@ -2683,39 +2684,51 @@ namespace ERPProject
         {
             panel50.BringToFront();
             panel50.Visible = true;
-            //입고현황 등록버튼
+            //입고현황 수정버튼
 
             //텍스트박스 내용 텍스트문서에 옮기는 과정필요
 
+            string fileName = "";
             try
-            {
-                string fileName = textBox40.Text.ToString();
-                string filename = dtif + "\\직원관리\\재고팀\\발주" + "\\" + fileName + ".txt";
+            {///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+                int rowindex = dataGridView10.CurrentRow.Index;
+                string RowIndexSelectElement = "";
 
-                FileStream fs = new FileStream(filename, FileMode.Open);//발주 신청 등록 텍스트
+                string[] allfiles = Directory.GetFiles(dtif + "\\직원관리\\재고팀\\입고품목", "*.*", SearchOption.AllDirectories);
+                string[] arr = new string[] { };
+                //반복문을 이용해서 배열에 저장된 길이 만큼 반복
 
-                //File.WriteAllText(filename, textBox57.Text);
-                StreamWriter writer = new StreamWriter(fs);
+                for (int i = 0; i < allfiles.Length; i++)
+                {
+                    //폴더 안의 폴더 안의 존재 하는 모든 *.txt 파일의 각각의 내용 배열에 저장
+                    string[] arra = File.ReadAllLines(allfiles[i]);
 
-                //writer = File.CreateText(filename);
-                writer.Write(DateTime.Now.ToString() + "\t");
-                writer.Write(textBox40.Text + "\t");//품목코드
-                writer.Write(textBox37.Text + "\t");//품목명
-                writer.Write(textBox41.Text + "\t");//가맹점
-                writer.Write(textBox43.Text + "\t");//수량
-                writer.Write(textBox38.Text + "\n");//담당자
+                    //반복문으로 저장된 배열의 내용을 처리
+                    foreach (string line in arra)
+                    {
+                        arr = line.Split('\t');
+                    }
 
-                writer.Close();
-                fs.Close();
+                }
 
-                writer.Dispose();
-                fs.Dispose();
 
-                //textBox37.Text = "";
-                //textBox38.Text = "";
-                //textBox40.Text = "";
-                //textBox41.Text = "";
-                //textBox43.Text = "";
+                for (int i = 0; i < dataGridView10.Rows.Count; i++)
+                {
+                    if (dataGridView10.Rows[i].Selected == true)
+                    {
+                        RowIndexSelectElement = dataGridView10.Rows[i].Cells[0].Value.ToString();
+
+                        textBox88.Text = dataGridView10.Rows[i].Cells[0].Value.ToString();//품목코드
+                        textBox85.Text = dataGridView10.Rows[i].Cells[1].Value.ToString();//품목명
+                        textBox87.Text = dataGridView10.Rows[i].Cells[2].Value.ToString();//창고명
+                        textBox84.Text = dataGridView10.Rows[i].Cells[3].Value.ToString();//수량
+                        textBox86.Text = arr[5];//배송담당
+                        textBox83.Text = arr[6];//연락처
+                        textBox82.Text = arr[7];//연락처
+
+                    }
+                }
+
 
             }
             catch (Exception ex)
@@ -2728,7 +2741,7 @@ namespace ERPProject
 
         }
 
-        //발주현황 컬럼명 추가
+        //입고현황 컬럼명 추가
         private void gridShowWarehousing()
         {
             dataGridView10.Columns.Clear();
@@ -2780,8 +2793,9 @@ namespace ERPProject
         }
         private void button36_Click(object sender, EventArgs e)
         {
+
             //입고현황 확인버튼
-            
+
             string[] allfiles2 = Directory.GetFiles(dtif + "\\직원관리\\재고팀\\입고품목", "*.*", SearchOption.AllDirectories);
             if (allfiles2.Length == 0)
             {
@@ -2796,8 +2810,10 @@ namespace ERPProject
 
         private void button42_Click(object sender, EventArgs e)
         {
-            //입고등록 팝업 등록버튼
+            //입고현황 수정 팝업 등록버튼
             panel50.Visible = false;
+
+
             
 
         }
@@ -2884,7 +2900,7 @@ namespace ERPProject
 
             string[] result = new string[] { };
 
-
+            
             for (int i = 0; i < allfiles2.Length; i++)
             {
                 //폴더 안의 폴더 안의 존재 하는 모든 *.txt 파일의 각각의 내용 배열에 저장
@@ -2930,6 +2946,43 @@ namespace ERPProject
         {
             panel53.Visible = false;
             //지급관리 팝업 수정 등록
+            //텍스트 박스 내용 txt에 저장
+
+
+            //텍스트박스 내용 텍스트문서에 옮기는 과정필요
+
+            try
+            {
+                string fileName = textBox104.Text.ToString();
+                string filename = dtif + "\\직원관리\\재고팀\\입고품목" + "\\" + fileName + ".txt";
+
+                //FileStream fs = new FileStream(filename, FileMode.Open);
+
+                //File.WriteAllText(filename, textBox57.Text);
+                StreamWriter writer = new StreamWriter(filename);
+
+                //writer = File.CreateText(filename);
+                
+                writer.Write(textBox104.Text + "\t");//품목코드
+                writer.Write(textBox107.Text + "\t");//품목명
+                writer.Write(textBox103.Text + "\t");//창고명
+                writer.Write(textBox105.Text + "\t");//배송담당
+                writer.Write(textBox102.Text + "\n");//연락처
+
+                /*
+                writer.Close();
+                fs.Close();
+
+                writer.Dispose();
+                fs.Dispose();
+                */
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, ex.ToString());
+            }
+
+
         }
 
         private void textBox101_TextChanged(object sender, EventArgs e)
@@ -2966,7 +3019,7 @@ namespace ERPProject
 
         private void textBox106_TextChanged(object sender, EventArgs e)
         {
-            //지급관리 팝업 담당자
+            //지급관리 팝업 수량
         }
 
         private void textBox103_TextChanged(object sender, EventArgs e)
@@ -3034,10 +3087,10 @@ namespace ERPProject
                 string fileName = textBox120.Text.ToString();
                 string filename = dtif + "\\직원관리\\재고팀\\수리입고품목" + "\\" + fileName + ".txt";
 
-                FileStream fs = new FileStream(filename, FileMode.Create);//수리입고등록 텍스트
+                //FileStream fs = new FileStream(filename, FileMode.Create);//수리입고등록 텍스트
 
                 //File.WriteAllText(filename, textBox57.Text);
-                StreamWriter writer = new StreamWriter(fs);
+                StreamWriter writer = new StreamWriter(filename);
 
                 //writer = File.CreateText(filename);
                 writer.Write(DateTime.Now.ToString() + "\t");
@@ -3048,10 +3101,10 @@ namespace ERPProject
                 writer.Write(textBox118.Text + "\n");//내용
 
                 writer.Close();
-                fs.Close();
+                //fs.Close();
 
                 writer.Dispose();
-                fs.Dispose();
+                //fs.Dispose();
 
                 textBox120.Text = "";
                 textBox122.Text = "";
@@ -3138,7 +3191,7 @@ namespace ERPProject
         {
             //그리드 뷰에 넣기 위한 테이블 생성
             gridShowRepairWarehousing();
-
+            
             //TextBox 입력된 문자열 string 으로 저장
             string SearchAddress = dtif + "\\직원관리\\재고팀" + "\\" + TextName + ".txt";
             //폴더안에 폴더안에 모든 *.txt 파일 이름 배열에 저장
@@ -3180,6 +3233,39 @@ namespace ERPProject
             panel67.Visible = true;
             panel67.BringToFront();
 
+            string[] allfiles = Directory.GetFiles(dtif + "\\직원관리\\재고팀\\수리입고품목", "*.*", SearchOption.AllDirectories);
+            string[] arr = new string[] { };
+            //반복문을 이용해서 배열에 저장된 길이 만큼 반복
+
+            for (int i = 0; i < allfiles.Length; i++)
+            {
+                //폴더 안의 폴더 안의 존재 하는 모든 *.txt 파일의 각각의 내용 배열에 저장
+                string[] arra = File.ReadAllLines(allfiles[i]);
+
+                //반복문으로 저장된 배열의 내용을 처리
+                foreach (string line in arra)
+                {
+                    arr = line.Split('\t');
+                }
+
+            }
+
+            for (int i = 0; i < dataGridView17.Rows.Count; i++)
+            {
+                if (dataGridView17.Rows[i].Selected == true)
+                {
+                    
+                    textBox138.Text = dataGridView17.Rows[i].Cells[0].Value.ToString();//품목코드
+                    textBox141.Text = dataGridView17.Rows[i].Cells[1].Value.ToString();//품목명
+                    textBox139.Text = dataGridView17.Rows[i].Cells[2].Value.ToString();//가맹점
+                    textBox140.Text = dataGridView17.Rows[i].Cells[3].Value.ToString();//담당자
+                    textBox135.Text = arr[arr.Length - 1];//내용
+                    
+
+                }
+            }
+
+
         }
 
         private void gridShowRepairWarehousing()
@@ -3189,6 +3275,7 @@ namespace ERPProject
             dataGridView17.Columns.Add("품목명", "품목명");
             dataGridView17.Columns.Add("가맹점", "가맹점");
             dataGridView17.Columns.Add("담당자", "담당자");
+
 
         }
         private void button54_Click(object sender, EventArgs e)
@@ -3208,7 +3295,7 @@ namespace ERPProject
         }
 
         private void textBox135_TextChanged(object sender, EventArgs e)
-        {
+        {   //수리입고현황 수정팝업창 안 텍스트박스
             int a = 25;
             string strTemp = textBox135.Text;
 
@@ -3251,7 +3338,7 @@ namespace ERPProject
 
         private void textBox139_TextChanged(object sender, EventArgs e)
         {
-            //수리입고등록 거래회사
+            //수리입고등록 가맹점
         }
 
         private void textBox136_TextChanged(object sender, EventArgs e)
@@ -3267,7 +3354,39 @@ namespace ERPProject
         private void button55_Click(object sender, EventArgs e)
         {
             panel67.Visible = false;
-            //수리입고등록 등록버튼
+            //수리입고현황 수정팝업창 안 등록버튼
+
+            //텍스트박스 내용 텍스트문서에 옮기는 과정필요
+
+            try
+            {
+                string fileName = textBox138.Text.ToString();
+                string filename = dtif + "\\직원관리\\재고팀\\수리입고품목" + "\\" + fileName + ".txt";
+
+                FileStream fs = new FileStream(filename, FileMode.Open);
+
+                //File.WriteAllText(filename, textBox57.Text);
+                StreamWriter writer = new StreamWriter(fs);
+
+                //writer = File.CreateText(filename);
+                writer.Write(DateTime.Now.ToString() + "\t");
+                writer.Write(textBox138.Text.ToString() + "\t");//품목코드
+                writer.Write(textBox141.Text.ToString() + "\t");//품목명
+                writer.Write(textBox139.Text.ToString() + "\t");//가맹점
+                writer.Write(textBox140.Text.ToString() + "\t");//담당자
+                writer.Write(textBox135.Text.ToString() + "\n");//내용
+
+                writer.Close();
+                fs.Close();
+
+                writer.Dispose();
+                fs.Dispose();
+
+            }
+            catch (Exception ex)
+            {
+                MessageBox.Show(ex.Message, ex.ToString());
+            }
         }
 
         private void textBox150_TextChanged(object sender, EventArgs e)
@@ -3413,6 +3532,9 @@ namespace ERPProject
 
         }
 
-        
+        private void textBox145_TextChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

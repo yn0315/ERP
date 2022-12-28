@@ -61,8 +61,9 @@ C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\o
 C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CopyComplete
 C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.exe
 C:\Users\woong\Desktop\c#프로젝트\ERPProject (2)1111\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
-C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\bin\Debug\ERPProject.exe
 C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\bin\Debug\ERPProject.exe.config
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\bin\Debug\ERPProject.exe
+C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\bin\Debug\ERPProject.pdb
 C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\bin\Debug\ERP_MODULE.dll
 C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\bin\Debug\ERP_MODULE.pdb
 C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.AssemblyReference.cache
@@ -77,4 +78,3 @@ C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj
 C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.csproj.CopyComplete
 C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.exe
 C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\obj\Debug\ERPProject.pdb
-C:\Users\myosi\OneDrive\바탕 화면\ERPProject_final\ERPProject\ERPProject\bin\Debug\ERPProject.pdb

@@ -49,158 +49,6 @@
             this.button1 = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
             this.checkBox1 = new System.Windows.Forms.CheckBox();
-            this.panel30 = new System.Windows.Forms.Panel();
-            this.button31 = new System.Windows.Forms.Button();
-            this.panel31 = new System.Windows.Forms.Panel();
-            this.textBox48 = new System.Windows.Forms.TextBox();
-            this.textBox47 = new System.Windows.Forms.TextBox();
-            this.textBox46 = new System.Windows.Forms.TextBox();
-            this.textBox45 = new System.Windows.Forms.TextBox();
-            this.textBox44 = new System.Windows.Forms.TextBox();
-            this.panel32 = new System.Windows.Forms.Panel();
-            this.textBox43 = new System.Windows.Forms.TextBox();
-            this.textBox42 = new System.Windows.Forms.TextBox();
-            this.textBox41 = new System.Windows.Forms.TextBox();
-            this.textBox40 = new System.Windows.Forms.TextBox();
-            this.textBox39 = new System.Windows.Forms.TextBox();
-            this.textBox38 = new System.Windows.Forms.TextBox();
-            this.textBox37 = new System.Windows.Forms.TextBox();
-            this.textBox36 = new System.Windows.Forms.TextBox();
-            this.textBox35 = new System.Windows.Forms.TextBox();
-            this.textBox34 = new System.Windows.Forms.TextBox();
-            this.textBox33 = new System.Windows.Forms.TextBox();
-            this.textBox32 = new System.Windows.Forms.TextBox();
-            this.textBox31 = new System.Windows.Forms.TextBox();
-            this.textBox30 = new System.Windows.Forms.TextBox();
-            this.panel41 = new System.Windows.Forms.Panel();
-            this.textBox66 = new System.Windows.Forms.TextBox();
-            this.textBox68 = new System.Windows.Forms.TextBox();
-            this.button37 = new System.Windows.Forms.Button();
-            this.panel42 = new System.Windows.Forms.Panel();
-            this.dataGridView11 = new System.Windows.Forms.DataGridView();
-            this.panel50 = new System.Windows.Forms.Panel();
-            this.button42 = new System.Windows.Forms.Button();
-            this.panel51 = new System.Windows.Forms.Panel();
-            this.textBox77 = new System.Windows.Forms.TextBox();
-            this.textBox78 = new System.Windows.Forms.TextBox();
-            this.textBox79 = new System.Windows.Forms.TextBox();
-            this.textBox80 = new System.Windows.Forms.TextBox();
-            this.textBox81 = new System.Windows.Forms.TextBox();
-            this.panel52 = new System.Windows.Forms.Panel();
-            this.textBox82 = new System.Windows.Forms.TextBox();
-            this.textBox83 = new System.Windows.Forms.TextBox();
-            this.textBox84 = new System.Windows.Forms.TextBox();
-            this.textBox85 = new System.Windows.Forms.TextBox();
-            this.textBox86 = new System.Windows.Forms.TextBox();
-            this.textBox87 = new System.Windows.Forms.TextBox();
-            this.textBox88 = new System.Windows.Forms.TextBox();
-            this.textBox89 = new System.Windows.Forms.TextBox();
-            this.textBox90 = new System.Windows.Forms.TextBox();
-            this.textBox91 = new System.Windows.Forms.TextBox();
-            this.textBox92 = new System.Windows.Forms.TextBox();
-            this.textBox93 = new System.Windows.Forms.TextBox();
-            this.textBox94 = new System.Windows.Forms.TextBox();
-            this.textBox95 = new System.Windows.Forms.TextBox();
-            this.panel53 = new System.Windows.Forms.Panel();
-            this.button43 = new System.Windows.Forms.Button();
-            this.panel54 = new System.Windows.Forms.Panel();
-            this.textBox96 = new System.Windows.Forms.TextBox();
-            this.textBox97 = new System.Windows.Forms.TextBox();
-            this.textBox98 = new System.Windows.Forms.TextBox();
-            this.textBox99 = new System.Windows.Forms.TextBox();
-            this.textBox100 = new System.Windows.Forms.TextBox();
-            this.panel55 = new System.Windows.Forms.Panel();
-            this.textBox101 = new System.Windows.Forms.TextBox();
-            this.textBox102 = new System.Windows.Forms.TextBox();
-            this.textBox103 = new System.Windows.Forms.TextBox();
-            this.textBox104 = new System.Windows.Forms.TextBox();
-            this.textBox105 = new System.Windows.Forms.TextBox();
-            this.textBox106 = new System.Windows.Forms.TextBox();
-            this.textBox107 = new System.Windows.Forms.TextBox();
-            this.textBox108 = new System.Windows.Forms.TextBox();
-            this.textBox109 = new System.Windows.Forms.TextBox();
-            this.textBox110 = new System.Windows.Forms.TextBox();
-            this.textBox111 = new System.Windows.Forms.TextBox();
-            this.textBox112 = new System.Windows.Forms.TextBox();
-            this.textBox113 = new System.Windows.Forms.TextBox();
-            this.textBox114 = new System.Windows.Forms.TextBox();
-            this.panel67 = new System.Windows.Forms.Panel();
-            this.button55 = new System.Windows.Forms.Button();
-            this.panel68 = new System.Windows.Forms.Panel();
-            this.textBox129 = new System.Windows.Forms.TextBox();
-            this.textBox130 = new System.Windows.Forms.TextBox();
-            this.textBox132 = new System.Windows.Forms.TextBox();
-            this.textBox133 = new System.Windows.Forms.TextBox();
-            this.textBox134 = new System.Windows.Forms.TextBox();
-            this.panel69 = new System.Windows.Forms.Panel();
-            this.textBox135 = new System.Windows.Forms.TextBox();
-            this.textBox136 = new System.Windows.Forms.TextBox();
-            this.textBox137 = new System.Windows.Forms.TextBox();
-            this.textBox138 = new System.Windows.Forms.TextBox();
-            this.textBox139 = new System.Windows.Forms.TextBox();
-            this.textBox140 = new System.Windows.Forms.TextBox();
-            this.textBox141 = new System.Windows.Forms.TextBox();
-            this.textBox142 = new System.Windows.Forms.TextBox();
-            this.textBox143 = new System.Windows.Forms.TextBox();
-            this.textBox144 = new System.Windows.Forms.TextBox();
-            this.textBox145 = new System.Windows.Forms.TextBox();
-            this.textBox146 = new System.Windows.Forms.TextBox();
-            this.textBox147 = new System.Windows.Forms.TextBox();
-            this.textBox148 = new System.Windows.Forms.TextBox();
-            this.panel26 = new System.Windows.Forms.Panel();
-            this.textBox26 = new System.Windows.Forms.TextBox();
-            this.button29 = new System.Windows.Forms.Button();
-            this.panel27 = new System.Windows.Forms.Panel();
-            this.dataGridView8 = new System.Windows.Forms.DataGridView();
-            this.panel46 = new System.Windows.Forms.Panel();
-            this.textBox73 = new System.Windows.Forms.TextBox();
-            this.button40 = new System.Windows.Forms.Button();
-            this.panel47 = new System.Windows.Forms.Panel();
-            this.dataGridView14 = new System.Windows.Forms.DataGridView();
-            this.panel48 = new System.Windows.Forms.Panel();
-            this.textBox74 = new System.Windows.Forms.TextBox();
-            this.textBox75 = new System.Windows.Forms.TextBox();
-            this.textBox76 = new System.Windows.Forms.TextBox();
-            this.button41 = new System.Windows.Forms.Button();
-            this.panel49 = new System.Windows.Forms.Panel();
-            this.dataGridView15 = new System.Windows.Forms.DataGridView();
-            this.panel40 = new System.Windows.Forms.Panel();
-            this.textBox69 = new System.Windows.Forms.TextBox();
-            this.textBox70 = new System.Windows.Forms.TextBox();
-            this.textBox71 = new System.Windows.Forms.TextBox();
-            this.button38 = new System.Windows.Forms.Button();
-            this.panel43 = new System.Windows.Forms.Panel();
-            this.dataGridView12 = new System.Windows.Forms.DataGridView();
-            this.panel28 = new System.Windows.Forms.Panel();
-            this.textBox27 = new System.Windows.Forms.TextBox();
-            this.textBox28 = new System.Windows.Forms.TextBox();
-            this.textBox29 = new System.Windows.Forms.TextBox();
-            this.button30 = new System.Windows.Forms.Button();
-            this.panel29 = new System.Windows.Forms.Panel();
-            this.dataGridView9 = new System.Windows.Forms.DataGridView();
-            this.panel44 = new System.Windows.Forms.Panel();
-            this.textBox67 = new System.Windows.Forms.TextBox();
-            this.textBox72 = new System.Windows.Forms.TextBox();
-            this.button39 = new System.Windows.Forms.Button();
-            this.panel45 = new System.Windows.Forms.Panel();
-            this.dataGridView13 = new System.Windows.Forms.DataGridView();
-            this.panel11 = new System.Windows.Forms.Panel();
-            this.textBox9 = new System.Windows.Forms.TextBox();
-            this.textBox8 = new System.Windows.Forms.TextBox();
-            this.textBox7 = new System.Windows.Forms.TextBox();
-            this.button14 = new System.Windows.Forms.Button();
-            this.panel12 = new System.Windows.Forms.Panel();
-            this.dataGridView4 = new System.Windows.Forms.DataGridView();
-            this.panel6 = new System.Windows.Forms.Panel();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.button9 = new System.Windows.Forms.Button();
-            this.panel7 = new System.Windows.Forms.Panel();
-            this.dataGridView2 = new System.Windows.Forms.DataGridView();
-            this.panel16 = new System.Windows.Forms.Panel();
-            this.textBox12 = new System.Windows.Forms.TextBox();
-            this.button19 = new System.Windows.Forms.Button();
-            this.panel17 = new System.Windows.Forms.Panel();
-            this.dataGridView6 = new System.Windows.Forms.DataGridView();
             this.panel73 = new System.Windows.Forms.Panel();
             this.textBox151 = new System.Windows.Forms.TextBox();
             this.panel74 = new System.Windows.Forms.Panel();
@@ -307,7 +155,6 @@
             this.textBox10 = new System.Windows.Forms.TextBox();
             this.panel14 = new System.Windows.Forms.Panel();
             this.button16 = new System.Windows.Forms.Button();
-            this.button17 = new System.Windows.Forms.Button();
             this.button18 = new System.Windows.Forms.Button();
             this.textBox11 = new System.Windows.Forms.TextBox();
             this.panel15 = new System.Windows.Forms.Panel();
@@ -334,53 +181,159 @@
             this.textBox6 = new System.Windows.Forms.TextBox();
             this.panel10 = new System.Windows.Forms.Panel();
             this.dataGridView3 = new System.Windows.Forms.DataGridView();
+            this.panel26 = new System.Windows.Forms.Panel();
+            this.textBox26 = new System.Windows.Forms.TextBox();
+            this.button29 = new System.Windows.Forms.Button();
+            this.panel27 = new System.Windows.Forms.Panel();
+            this.dataGridView8 = new System.Windows.Forms.DataGridView();
+            this.panel46 = new System.Windows.Forms.Panel();
+            this.textBox73 = new System.Windows.Forms.TextBox();
+            this.button40 = new System.Windows.Forms.Button();
+            this.panel47 = new System.Windows.Forms.Panel();
+            this.dataGridView14 = new System.Windows.Forms.DataGridView();
+            this.panel48 = new System.Windows.Forms.Panel();
+            this.textBox74 = new System.Windows.Forms.TextBox();
+            this.textBox75 = new System.Windows.Forms.TextBox();
+            this.textBox76 = new System.Windows.Forms.TextBox();
+            this.button41 = new System.Windows.Forms.Button();
+            this.panel49 = new System.Windows.Forms.Panel();
+            this.dataGridView15 = new System.Windows.Forms.DataGridView();
+            this.panel40 = new System.Windows.Forms.Panel();
+            this.textBox69 = new System.Windows.Forms.TextBox();
+            this.textBox70 = new System.Windows.Forms.TextBox();
+            this.textBox71 = new System.Windows.Forms.TextBox();
+            this.button38 = new System.Windows.Forms.Button();
+            this.panel43 = new System.Windows.Forms.Panel();
+            this.dataGridView12 = new System.Windows.Forms.DataGridView();
+            this.panel28 = new System.Windows.Forms.Panel();
+            this.textBox27 = new System.Windows.Forms.TextBox();
+            this.textBox28 = new System.Windows.Forms.TextBox();
+            this.textBox29 = new System.Windows.Forms.TextBox();
+            this.button30 = new System.Windows.Forms.Button();
+            this.panel29 = new System.Windows.Forms.Panel();
+            this.dataGridView9 = new System.Windows.Forms.DataGridView();
+            this.panel44 = new System.Windows.Forms.Panel();
+            this.textBox67 = new System.Windows.Forms.TextBox();
+            this.textBox72 = new System.Windows.Forms.TextBox();
+            this.button39 = new System.Windows.Forms.Button();
+            this.panel45 = new System.Windows.Forms.Panel();
+            this.dataGridView13 = new System.Windows.Forms.DataGridView();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.textBox9 = new System.Windows.Forms.TextBox();
+            this.textBox8 = new System.Windows.Forms.TextBox();
+            this.textBox7 = new System.Windows.Forms.TextBox();
+            this.button14 = new System.Windows.Forms.Button();
+            this.panel12 = new System.Windows.Forms.Panel();
+            this.dataGridView4 = new System.Windows.Forms.DataGridView();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.textBox4 = new System.Windows.Forms.TextBox();
+            this.button9 = new System.Windows.Forms.Button();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.dataGridView2 = new System.Windows.Forms.DataGridView();
+            this.panel16 = new System.Windows.Forms.Panel();
+            this.textBox12 = new System.Windows.Forms.TextBox();
+            this.button19 = new System.Windows.Forms.Button();
+            this.panel17 = new System.Windows.Forms.Panel();
+            this.dataGridView6 = new System.Windows.Forms.DataGridView();
+            this.panel30 = new System.Windows.Forms.Panel();
+            this.button31 = new System.Windows.Forms.Button();
+            this.panel31 = new System.Windows.Forms.Panel();
+            this.textBox48 = new System.Windows.Forms.TextBox();
+            this.textBox47 = new System.Windows.Forms.TextBox();
+            this.textBox46 = new System.Windows.Forms.TextBox();
+            this.textBox45 = new System.Windows.Forms.TextBox();
+            this.textBox44 = new System.Windows.Forms.TextBox();
+            this.panel32 = new System.Windows.Forms.Panel();
+            this.textBox43 = new System.Windows.Forms.TextBox();
+            this.textBox42 = new System.Windows.Forms.TextBox();
+            this.textBox41 = new System.Windows.Forms.TextBox();
+            this.textBox40 = new System.Windows.Forms.TextBox();
+            this.textBox39 = new System.Windows.Forms.TextBox();
+            this.textBox38 = new System.Windows.Forms.TextBox();
+            this.textBox37 = new System.Windows.Forms.TextBox();
+            this.textBox36 = new System.Windows.Forms.TextBox();
+            this.textBox35 = new System.Windows.Forms.TextBox();
+            this.textBox34 = new System.Windows.Forms.TextBox();
+            this.textBox33 = new System.Windows.Forms.TextBox();
+            this.textBox32 = new System.Windows.Forms.TextBox();
+            this.textBox31 = new System.Windows.Forms.TextBox();
+            this.textBox30 = new System.Windows.Forms.TextBox();
+            this.panel41 = new System.Windows.Forms.Panel();
+            this.textBox66 = new System.Windows.Forms.TextBox();
+            this.textBox68 = new System.Windows.Forms.TextBox();
+            this.button37 = new System.Windows.Forms.Button();
+            this.panel42 = new System.Windows.Forms.Panel();
+            this.dataGridView11 = new System.Windows.Forms.DataGridView();
+            this.panel50 = new System.Windows.Forms.Panel();
+            this.button42 = new System.Windows.Forms.Button();
+            this.panel51 = new System.Windows.Forms.Panel();
+            this.textBox77 = new System.Windows.Forms.TextBox();
+            this.textBox78 = new System.Windows.Forms.TextBox();
+            this.textBox79 = new System.Windows.Forms.TextBox();
+            this.textBox80 = new System.Windows.Forms.TextBox();
+            this.textBox81 = new System.Windows.Forms.TextBox();
+            this.panel52 = new System.Windows.Forms.Panel();
+            this.textBox82 = new System.Windows.Forms.TextBox();
+            this.textBox83 = new System.Windows.Forms.TextBox();
+            this.textBox84 = new System.Windows.Forms.TextBox();
+            this.textBox85 = new System.Windows.Forms.TextBox();
+            this.textBox86 = new System.Windows.Forms.TextBox();
+            this.textBox87 = new System.Windows.Forms.TextBox();
+            this.textBox88 = new System.Windows.Forms.TextBox();
+            this.textBox89 = new System.Windows.Forms.TextBox();
+            this.textBox90 = new System.Windows.Forms.TextBox();
+            this.textBox91 = new System.Windows.Forms.TextBox();
+            this.textBox92 = new System.Windows.Forms.TextBox();
+            this.textBox93 = new System.Windows.Forms.TextBox();
+            this.textBox94 = new System.Windows.Forms.TextBox();
+            this.textBox95 = new System.Windows.Forms.TextBox();
+            this.panel53 = new System.Windows.Forms.Panel();
+            this.button43 = new System.Windows.Forms.Button();
+            this.panel54 = new System.Windows.Forms.Panel();
+            this.textBox96 = new System.Windows.Forms.TextBox();
+            this.textBox97 = new System.Windows.Forms.TextBox();
+            this.textBox98 = new System.Windows.Forms.TextBox();
+            this.textBox99 = new System.Windows.Forms.TextBox();
+            this.textBox100 = new System.Windows.Forms.TextBox();
+            this.panel55 = new System.Windows.Forms.Panel();
+            this.textBox101 = new System.Windows.Forms.TextBox();
+            this.textBox102 = new System.Windows.Forms.TextBox();
+            this.textBox103 = new System.Windows.Forms.TextBox();
+            this.textBox104 = new System.Windows.Forms.TextBox();
+            this.textBox105 = new System.Windows.Forms.TextBox();
+            this.textBox106 = new System.Windows.Forms.TextBox();
+            this.textBox107 = new System.Windows.Forms.TextBox();
+            this.textBox108 = new System.Windows.Forms.TextBox();
+            this.textBox109 = new System.Windows.Forms.TextBox();
+            this.textBox110 = new System.Windows.Forms.TextBox();
+            this.textBox111 = new System.Windows.Forms.TextBox();
+            this.textBox112 = new System.Windows.Forms.TextBox();
+            this.textBox113 = new System.Windows.Forms.TextBox();
+            this.textBox114 = new System.Windows.Forms.TextBox();
+            this.panel67 = new System.Windows.Forms.Panel();
+            this.button55 = new System.Windows.Forms.Button();
+            this.panel68 = new System.Windows.Forms.Panel();
+            this.textBox129 = new System.Windows.Forms.TextBox();
+            this.textBox130 = new System.Windows.Forms.TextBox();
+            this.textBox132 = new System.Windows.Forms.TextBox();
+            this.textBox133 = new System.Windows.Forms.TextBox();
+            this.textBox134 = new System.Windows.Forms.TextBox();
+            this.panel69 = new System.Windows.Forms.Panel();
+            this.textBox135 = new System.Windows.Forms.TextBox();
+            this.textBox138 = new System.Windows.Forms.TextBox();
+            this.textBox139 = new System.Windows.Forms.TextBox();
+            this.textBox140 = new System.Windows.Forms.TextBox();
+            this.textBox141 = new System.Windows.Forms.TextBox();
+            this.textBox144 = new System.Windows.Forms.TextBox();
+            this.textBox145 = new System.Windows.Forms.TextBox();
+            this.textBox146 = new System.Windows.Forms.TextBox();
+            this.textBox147 = new System.Windows.Forms.TextBox();
+            this.textBox148 = new System.Windows.Forms.TextBox();
             this.uiPanel_Main.SuspendLayout();
             this.panel2.SuspendLayout();
             this.panel59.SuspendLayout();
             this.panel18.SuspendLayout();
             this.panel1.SuspendLayout();
-            this.panel30.SuspendLayout();
-            this.panel31.SuspendLayout();
-            this.panel32.SuspendLayout();
-            this.panel41.SuspendLayout();
-            this.panel42.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView11)).BeginInit();
-            this.panel50.SuspendLayout();
-            this.panel51.SuspendLayout();
-            this.panel52.SuspendLayout();
-            this.panel53.SuspendLayout();
-            this.panel54.SuspendLayout();
-            this.panel55.SuspendLayout();
-            this.panel67.SuspendLayout();
-            this.panel68.SuspendLayout();
-            this.panel69.SuspendLayout();
-            this.panel26.SuspendLayout();
-            this.panel27.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView8)).BeginInit();
-            this.panel46.SuspendLayout();
-            this.panel47.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView14)).BeginInit();
-            this.panel48.SuspendLayout();
-            this.panel49.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView15)).BeginInit();
-            this.panel40.SuspendLayout();
-            this.panel43.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView12)).BeginInit();
-            this.panel28.SuspendLayout();
-            this.panel29.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView9)).BeginInit();
-            this.panel44.SuspendLayout();
-            this.panel45.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView13)).BeginInit();
-            this.panel11.SuspendLayout();
-            this.panel12.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).BeginInit();
-            this.panel6.SuspendLayout();
-            this.panel7.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
-            this.panel16.SuspendLayout();
-            this.panel17.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView6)).BeginInit();
             this.panel73.SuspendLayout();
             this.panel74.SuspendLayout();
             this.panel75.SuspendLayout();
@@ -428,14 +381,55 @@
             this.panel9.SuspendLayout();
             this.panel10.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).BeginInit();
+            this.panel26.SuspendLayout();
+            this.panel27.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView8)).BeginInit();
+            this.panel46.SuspendLayout();
+            this.panel47.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView14)).BeginInit();
+            this.panel48.SuspendLayout();
+            this.panel49.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView15)).BeginInit();
+            this.panel40.SuspendLayout();
+            this.panel43.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView12)).BeginInit();
+            this.panel28.SuspendLayout();
+            this.panel29.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView9)).BeginInit();
+            this.panel44.SuspendLayout();
+            this.panel45.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView13)).BeginInit();
+            this.panel11.SuspendLayout();
+            this.panel12.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).BeginInit();
+            this.panel6.SuspendLayout();
+            this.panel7.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).BeginInit();
+            this.panel16.SuspendLayout();
+            this.panel17.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView6)).BeginInit();
+            this.panel30.SuspendLayout();
+            this.panel31.SuspendLayout();
+            this.panel32.SuspendLayout();
+            this.panel41.SuspendLayout();
+            this.panel42.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView11)).BeginInit();
+            this.panel50.SuspendLayout();
+            this.panel51.SuspendLayout();
+            this.panel52.SuspendLayout();
+            this.panel53.SuspendLayout();
+            this.panel54.SuspendLayout();
+            this.panel55.SuspendLayout();
+            this.panel67.SuspendLayout();
+            this.panel68.SuspendLayout();
+            this.panel69.SuspendLayout();
             this.SuspendLayout();
             // 
             // uiPanel_Main
             // 
+            this.uiPanel_Main.Controls.Add(this.panel50);
             this.uiPanel_Main.Controls.Add(this.button4);
             this.uiPanel_Main.Controls.Add(this.panel2);
-            this.uiPanel_Main.Controls.Add(this.panel64);
-            this.uiPanel_Main.Controls.Add(this.panel60);
             this.uiPanel_Main.Controls.Add(this.panel37);
             this.uiPanel_Main.Controls.Add(this.panel33);
             this.uiPanel_Main.Controls.Add(this.panel23);
@@ -445,8 +439,9 @@
             this.uiPanel_Main.Controls.Add(this.panel8);
             this.uiPanel_Main.Controls.Add(this.panel73);
             this.uiPanel_Main.Controls.Add(this.panel70);
-            this.uiPanel_Main.Controls.Add(this.panel41);
-            this.uiPanel_Main.Controls.Add(this.panel50);
+            this.uiPanel_Main.Controls.Add(this.panel56);
+            this.uiPanel_Main.Controls.Add(this.panel64);
+            this.uiPanel_Main.Controls.Add(this.panel60);
             this.uiPanel_Main.Controls.Add(this.panel53);
             this.uiPanel_Main.Controls.Add(this.panel67);
             this.uiPanel_Main.Controls.Add(this.panel26);
@@ -459,7 +454,7 @@
             this.uiPanel_Main.Controls.Add(this.panel6);
             this.uiPanel_Main.Controls.Add(this.panel16);
             this.uiPanel_Main.Controls.Add(this.panel30);
-            this.uiPanel_Main.Controls.Add(this.panel56);
+            this.uiPanel_Main.Controls.Add(this.panel41);
             this.uiPanel_Main.Location = new System.Drawing.Point(-9, -7);
             this.uiPanel_Main.Name = "uiPanel_Main";
             this.uiPanel_Main.Size = new System.Drawing.Size(1442, 684);
@@ -749,1895 +744,6 @@
             this.checkBox1.TabIndex = 0;
             this.checkBox1.Text = "1.재 고";
             this.checkBox1.UseVisualStyleBackColor = true;
-            // 
-            // panel30
-            // 
-            this.panel30.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel30.Controls.Add(this.button31);
-            this.panel30.Controls.Add(this.panel31);
-            this.panel30.Location = new System.Drawing.Point(669, 52);
-            this.panel30.Name = "panel30";
-            this.panel30.Size = new System.Drawing.Size(507, 452);
-            this.panel30.TabIndex = 5;
-            this.panel30.Visible = false;
-            // 
-            // button31
-            // 
-            this.button31.BackColor = System.Drawing.Color.LimeGreen;
-            this.button31.FlatAppearance.BorderSize = 0;
-            this.button31.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button31.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button31.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button31.Location = new System.Drawing.Point(400, 407);
-            this.button31.Name = "button31";
-            this.button31.Size = new System.Drawing.Size(89, 34);
-            this.button31.TabIndex = 1;
-            this.button31.Text = "등 록";
-            this.button31.UseVisualStyleBackColor = false;
-            this.button31.Click += new System.EventHandler(this.button31_Click);
-            // 
-            // panel31
-            // 
-            this.panel31.AutoScroll = true;
-            this.panel31.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel31.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel31.Controls.Add(this.textBox48);
-            this.panel31.Controls.Add(this.textBox47);
-            this.panel31.Controls.Add(this.textBox46);
-            this.panel31.Controls.Add(this.textBox45);
-            this.panel31.Controls.Add(this.textBox44);
-            this.panel31.Controls.Add(this.panel32);
-            this.panel31.Controls.Add(this.textBox42);
-            this.panel31.Controls.Add(this.textBox41);
-            this.panel31.Controls.Add(this.textBox40);
-            this.panel31.Controls.Add(this.textBox39);
-            this.panel31.Controls.Add(this.textBox38);
-            this.panel31.Controls.Add(this.textBox37);
-            this.panel31.Controls.Add(this.textBox36);
-            this.panel31.Controls.Add(this.textBox35);
-            this.panel31.Controls.Add(this.textBox34);
-            this.panel31.Controls.Add(this.textBox33);
-            this.panel31.Controls.Add(this.textBox32);
-            this.panel31.Controls.Add(this.textBox31);
-            this.panel31.Controls.Add(this.textBox30);
-            this.panel31.Location = new System.Drawing.Point(14, 10);
-            this.panel31.Name = "panel31";
-            this.panel31.Size = new System.Drawing.Size(480, 396);
-            this.panel31.TabIndex = 0;
-            // 
-            // textBox48
-            // 
-            this.textBox48.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox48.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox48.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox48.Location = new System.Drawing.Point(412, 362);
-            this.textBox48.Name = "textBox48";
-            this.textBox48.ReadOnly = true;
-            this.textBox48.Size = new System.Drawing.Size(39, 19);
-            this.textBox48.TabIndex = 20;
-            this.textBox48.Text = "(인)";
-            this.textBox48.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox47
-            // 
-            this.textBox47.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox47.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox47.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox47.Location = new System.Drawing.Point(337, 361);
-            this.textBox47.Name = "textBox47";
-            this.textBox47.ReadOnly = true;
-            this.textBox47.Size = new System.Drawing.Size(75, 19);
-            this.textBox47.TabIndex = 19;
-            this.textBox47.TextChanged += new System.EventHandler(this.textBox47_TextChanged);
-            // 
-            // textBox46
-            // 
-            this.textBox46.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox46.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox46.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox46.Location = new System.Drawing.Point(266, 363);
-            this.textBox46.Name = "textBox46";
-            this.textBox46.ReadOnly = true;
-            this.textBox46.Size = new System.Drawing.Size(65, 18);
-            this.textBox46.TabIndex = 18;
-            this.textBox46.Text = "담당자 : ";
-            this.textBox46.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox45
-            // 
-            this.textBox45.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox45.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox45.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox45.Location = new System.Drawing.Point(341, 339);
-            this.textBox45.Name = "textBox45";
-            this.textBox45.ReadOnly = true;
-            this.textBox45.Size = new System.Drawing.Size(100, 19);
-            this.textBox45.TabIndex = 17;
-            this.textBox45.TextChanged += new System.EventHandler(this.textBox45_TextChanged);
-            // 
-            // textBox44
-            // 
-            this.textBox44.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox44.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox44.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox44.Location = new System.Drawing.Point(239, 341);
-            this.textBox44.Name = "textBox44";
-            this.textBox44.ReadOnly = true;
-            this.textBox44.Size = new System.Drawing.Size(100, 18);
-            this.textBox44.TabIndex = 16;
-            this.textBox44.Text = "발주 날짜";
-            this.textBox44.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // panel32
-            // 
-            this.panel32.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel32.Controls.Add(this.textBox43);
-            this.panel32.Location = new System.Drawing.Point(13, 158);
-            this.panel32.Name = "panel32";
-            this.panel32.Size = new System.Drawing.Size(428, 175);
-            this.panel32.TabIndex = 15;
-            // 
-            // textBox43
-            // 
-            this.textBox43.AcceptsReturn = true;
-            this.textBox43.AcceptsTab = true;
-            this.textBox43.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox43.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox43.Location = new System.Drawing.Point(23, 8);
-            this.textBox43.Multiline = true;
-            this.textBox43.Name = "textBox43";
-            this.textBox43.Size = new System.Drawing.Size(400, 151);
-            this.textBox43.TabIndex = 14;
-            this.textBox43.TextChanged += new System.EventHandler(this.textBox43_TextChanged);
-            // 
-            // textBox42
-            // 
-            this.textBox42.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox42.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox42.Location = new System.Drawing.Point(319, 117);
-            this.textBox42.Name = "textBox42";
-            this.textBox42.Size = new System.Drawing.Size(122, 25);
-            this.textBox42.TabIndex = 13;
-            this.textBox42.TextChanged += new System.EventHandler(this.textBox42_TextChanged);
-            // 
-            // textBox41
-            // 
-            this.textBox41.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox41.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox41.Location = new System.Drawing.Point(319, 92);
-            this.textBox41.Name = "textBox41";
-            this.textBox41.Size = new System.Drawing.Size(122, 25);
-            this.textBox41.TabIndex = 12;
-            this.textBox41.TextChanged += new System.EventHandler(this.textBox41_TextChanged);
-            // 
-            // textBox40
-            // 
-            this.textBox40.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox40.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox40.Location = new System.Drawing.Point(319, 67);
-            this.textBox40.Name = "textBox40";
-            this.textBox40.Size = new System.Drawing.Size(122, 25);
-            this.textBox40.TabIndex = 11;
-            this.textBox40.TextChanged += new System.EventHandler(this.textBox40_TextChanged);
-            // 
-            // textBox39
-            // 
-            this.textBox39.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox39.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox39.Location = new System.Drawing.Point(89, 117);
-            this.textBox39.Name = "textBox39";
-            this.textBox39.Size = new System.Drawing.Size(120, 25);
-            this.textBox39.TabIndex = 10;
-            this.textBox39.TextChanged += new System.EventHandler(this.textBox39_TextChanged);
-            // 
-            // textBox38
-            // 
-            this.textBox38.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox38.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox38.Location = new System.Drawing.Point(89, 92);
-            this.textBox38.Name = "textBox38";
-            this.textBox38.Size = new System.Drawing.Size(120, 25);
-            this.textBox38.TabIndex = 9;
-            this.textBox38.TextChanged += new System.EventHandler(this.textBox38_TextChanged);
-            // 
-            // textBox37
-            // 
-            this.textBox37.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox37.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox37.Location = new System.Drawing.Point(89, 67);
-            this.textBox37.Name = "textBox37";
-            this.textBox37.Size = new System.Drawing.Size(120, 25);
-            this.textBox37.TabIndex = 8;
-            this.textBox37.TextChanged += new System.EventHandler(this.textBox37_TextChanged);
-            // 
-            // textBox36
-            // 
-            this.textBox36.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox36.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox36.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox36.Location = new System.Drawing.Point(228, 116);
-            this.textBox36.Name = "textBox36";
-            this.textBox36.ReadOnly = true;
-            this.textBox36.Size = new System.Drawing.Size(91, 26);
-            this.textBox36.TabIndex = 7;
-            this.textBox36.Text = "연락처";
-            this.textBox36.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox35
-            // 
-            this.textBox35.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox35.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox35.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox35.Location = new System.Drawing.Point(228, 92);
-            this.textBox35.Name = "textBox35";
-            this.textBox35.ReadOnly = true;
-            this.textBox35.Size = new System.Drawing.Size(91, 26);
-            this.textBox35.TabIndex = 6;
-            this.textBox35.Text = "신청가맹점";
-            this.textBox35.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox34
-            // 
-            this.textBox34.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox34.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox34.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox34.Location = new System.Drawing.Point(228, 67);
-            this.textBox34.Name = "textBox34";
-            this.textBox34.ReadOnly = true;
-            this.textBox34.Size = new System.Drawing.Size(91, 26);
-            this.textBox34.TabIndex = 5;
-            this.textBox34.Text = "품목 번호";
-            this.textBox34.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox33
-            // 
-            this.textBox33.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox33.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox33.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox33.Location = new System.Drawing.Point(13, 117);
-            this.textBox33.Name = "textBox33";
-            this.textBox33.ReadOnly = true;
-            this.textBox33.Size = new System.Drawing.Size(76, 26);
-            this.textBox33.TabIndex = 4;
-            this.textBox33.Text = "거래회사";
-            this.textBox33.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox32
-            // 
-            this.textBox32.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox32.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox32.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox32.Location = new System.Drawing.Point(13, 92);
-            this.textBox32.Name = "textBox32";
-            this.textBox32.ReadOnly = true;
-            this.textBox32.Size = new System.Drawing.Size(76, 26);
-            this.textBox32.TabIndex = 3;
-            this.textBox32.Text = "담당자";
-            this.textBox32.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox31
-            // 
-            this.textBox31.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox31.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox31.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox31.Location = new System.Drawing.Point(13, 67);
-            this.textBox31.Name = "textBox31";
-            this.textBox31.ReadOnly = true;
-            this.textBox31.Size = new System.Drawing.Size(76, 26);
-            this.textBox31.TabIndex = 2;
-            this.textBox31.Text = "품목 명";
-            this.textBox31.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox30
-            // 
-            this.textBox30.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox30.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox30.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox30.Location = new System.Drawing.Point(155, 9);
-            this.textBox30.Name = "textBox30";
-            this.textBox30.ReadOnly = true;
-            this.textBox30.Size = new System.Drawing.Size(147, 28);
-            this.textBox30.TabIndex = 1;
-            this.textBox30.Text = "발주 등록";
-            this.textBox30.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // panel41
-            // 
-            this.panel41.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel41.Controls.Add(this.textBox66);
-            this.panel41.Controls.Add(this.textBox68);
-            this.panel41.Controls.Add(this.button37);
-            this.panel41.Controls.Add(this.panel42);
-            this.panel41.Location = new System.Drawing.Point(669, 52);
-            this.panel41.Name = "panel41";
-            this.panel41.Size = new System.Drawing.Size(507, 452);
-            this.panel41.TabIndex = 5;
-            this.panel41.Visible = false;
-            // 
-            // textBox66
-            // 
-            this.textBox66.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox66.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox66.Location = new System.Drawing.Point(16, 413);
-            this.textBox66.Name = "textBox66";
-            this.textBox66.ReadOnly = true;
-            this.textBox66.Size = new System.Drawing.Size(333, 28);
-            this.textBox66.TabIndex = 3;
-            // 
-            // textBox68
-            // 
-            this.textBox68.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox68.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox68.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox68.Location = new System.Drawing.Point(189, 22);
-            this.textBox68.Name = "textBox68";
-            this.textBox68.ReadOnly = true;
-            this.textBox68.Size = new System.Drawing.Size(147, 28);
-            this.textBox68.TabIndex = 1;
-            this.textBox68.Text = "품목 내역";
-            this.textBox68.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // button37
-            // 
-            this.button37.BackColor = System.Drawing.Color.LimeGreen;
-            this.button37.FlatAppearance.BorderSize = 0;
-            this.button37.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button37.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button37.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button37.Location = new System.Drawing.Point(400, 407);
-            this.button37.Name = "button37";
-            this.button37.Size = new System.Drawing.Size(89, 34);
-            this.button37.TabIndex = 1;
-            this.button37.Text = "수 정";
-            this.button37.UseVisualStyleBackColor = false;
-            // 
-            // panel42
-            // 
-            this.panel42.AutoScroll = true;
-            this.panel42.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel42.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel42.Controls.Add(this.dataGridView11);
-            this.panel42.Location = new System.Drawing.Point(14, 75);
-            this.panel42.Name = "panel42";
-            this.panel42.Size = new System.Drawing.Size(480, 331);
-            this.panel42.TabIndex = 0;
-            // 
-            // dataGridView11
-            // 
-            this.dataGridView11.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView11.Location = new System.Drawing.Point(0, 3);
-            this.dataGridView11.Name = "dataGridView11";
-            this.dataGridView11.RowHeadersWidth = 62;
-            this.dataGridView11.RowTemplate.Height = 23;
-            this.dataGridView11.Size = new System.Drawing.Size(470, 263);
-            this.dataGridView11.TabIndex = 0;
-            // 
-            // panel50
-            // 
-            this.panel50.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel50.Controls.Add(this.button42);
-            this.panel50.Controls.Add(this.panel51);
-            this.panel50.Location = new System.Drawing.Point(669, 52);
-            this.panel50.Name = "panel50";
-            this.panel50.Size = new System.Drawing.Size(507, 452);
-            this.panel50.TabIndex = 6;
-            this.panel50.Visible = false;
-            // 
-            // button42
-            // 
-            this.button42.BackColor = System.Drawing.Color.LimeGreen;
-            this.button42.FlatAppearance.BorderSize = 0;
-            this.button42.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button42.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button42.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button42.Location = new System.Drawing.Point(400, 407);
-            this.button42.Name = "button42";
-            this.button42.Size = new System.Drawing.Size(89, 34);
-            this.button42.TabIndex = 1;
-            this.button42.Text = "등 록";
-            this.button42.UseVisualStyleBackColor = false;
-            this.button42.Click += new System.EventHandler(this.button42_Click);
-            // 
-            // panel51
-            // 
-            this.panel51.AutoScroll = true;
-            this.panel51.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel51.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel51.Controls.Add(this.textBox77);
-            this.panel51.Controls.Add(this.textBox78);
-            this.panel51.Controls.Add(this.textBox79);
-            this.panel51.Controls.Add(this.textBox80);
-            this.panel51.Controls.Add(this.textBox81);
-            this.panel51.Controls.Add(this.panel52);
-            this.panel51.Controls.Add(this.textBox83);
-            this.panel51.Controls.Add(this.textBox84);
-            this.panel51.Controls.Add(this.textBox85);
-            this.panel51.Controls.Add(this.textBox86);
-            this.panel51.Controls.Add(this.textBox87);
-            this.panel51.Controls.Add(this.textBox88);
-            this.panel51.Controls.Add(this.textBox89);
-            this.panel51.Controls.Add(this.textBox90);
-            this.panel51.Controls.Add(this.textBox91);
-            this.panel51.Controls.Add(this.textBox92);
-            this.panel51.Controls.Add(this.textBox93);
-            this.panel51.Controls.Add(this.textBox94);
-            this.panel51.Controls.Add(this.textBox95);
-            this.panel51.Location = new System.Drawing.Point(14, 10);
-            this.panel51.Name = "panel51";
-            this.panel51.Size = new System.Drawing.Size(480, 396);
-            this.panel51.TabIndex = 0;
-            // 
-            // textBox77
-            // 
-            this.textBox77.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox77.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox77.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox77.Location = new System.Drawing.Point(412, 362);
-            this.textBox77.Name = "textBox77";
-            this.textBox77.ReadOnly = true;
-            this.textBox77.Size = new System.Drawing.Size(39, 19);
-            this.textBox77.TabIndex = 20;
-            this.textBox77.Text = "(인)";
-            this.textBox77.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox78
-            // 
-            this.textBox78.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox78.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox78.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox78.Location = new System.Drawing.Point(337, 361);
-            this.textBox78.Name = "textBox78";
-            this.textBox78.ReadOnly = true;
-            this.textBox78.Size = new System.Drawing.Size(75, 19);
-            this.textBox78.TabIndex = 19;
-            this.textBox78.TextChanged += new System.EventHandler(this.textBox78_TextChanged);
-            // 
-            // textBox79
-            // 
-            this.textBox79.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox79.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox79.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox79.Location = new System.Drawing.Point(266, 363);
-            this.textBox79.Name = "textBox79";
-            this.textBox79.ReadOnly = true;
-            this.textBox79.Size = new System.Drawing.Size(65, 18);
-            this.textBox79.TabIndex = 18;
-            this.textBox79.Text = "담당자 : ";
-            this.textBox79.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox80
-            // 
-            this.textBox80.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox80.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox80.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox80.Location = new System.Drawing.Point(341, 339);
-            this.textBox80.Name = "textBox80";
-            this.textBox80.ReadOnly = true;
-            this.textBox80.Size = new System.Drawing.Size(100, 19);
-            this.textBox80.TabIndex = 17;
-            this.textBox80.TextChanged += new System.EventHandler(this.textBox80_TextChanged);
-            // 
-            // textBox81
-            // 
-            this.textBox81.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox81.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox81.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox81.Location = new System.Drawing.Point(239, 341);
-            this.textBox81.Name = "textBox81";
-            this.textBox81.ReadOnly = true;
-            this.textBox81.Size = new System.Drawing.Size(100, 18);
-            this.textBox81.TabIndex = 16;
-            this.textBox81.Text = "발주 날짜";
-            this.textBox81.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // panel52
-            // 
-            this.panel52.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel52.Controls.Add(this.textBox82);
-            this.panel52.Location = new System.Drawing.Point(13, 158);
-            this.panel52.Name = "panel52";
-            this.panel52.Size = new System.Drawing.Size(428, 175);
-            this.panel52.TabIndex = 15;
-            // 
-            // textBox82
-            // 
-            this.textBox82.AcceptsReturn = true;
-            this.textBox82.AcceptsTab = true;
-            this.textBox82.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox82.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox82.Location = new System.Drawing.Point(23, 8);
-            this.textBox82.Multiline = true;
-            this.textBox82.Name = "textBox82";
-            this.textBox82.Size = new System.Drawing.Size(400, 151);
-            this.textBox82.TabIndex = 14;
-            // 
-            // textBox83
-            // 
-            this.textBox83.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox83.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox83.Location = new System.Drawing.Point(319, 117);
-            this.textBox83.Name = "textBox83";
-            this.textBox83.Size = new System.Drawing.Size(122, 25);
-            this.textBox83.TabIndex = 13;
-            this.textBox83.TextChanged += new System.EventHandler(this.textBox83_TextChanged);
-            // 
-            // textBox84
-            // 
-            this.textBox84.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox84.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox84.Location = new System.Drawing.Point(319, 92);
-            this.textBox84.Name = "textBox84";
-            this.textBox84.Size = new System.Drawing.Size(122, 25);
-            this.textBox84.TabIndex = 12;
-            this.textBox84.TextChanged += new System.EventHandler(this.textBox84_TextChanged);
-            // 
-            // textBox85
-            // 
-            this.textBox85.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox85.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox85.Location = new System.Drawing.Point(319, 67);
-            this.textBox85.Name = "textBox85";
-            this.textBox85.Size = new System.Drawing.Size(122, 25);
-            this.textBox85.TabIndex = 11;
-            this.textBox85.TextChanged += new System.EventHandler(this.textBox85_TextChanged);
-            // 
-            // textBox86
-            // 
-            this.textBox86.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox86.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox86.Location = new System.Drawing.Point(89, 117);
-            this.textBox86.Name = "textBox86";
-            this.textBox86.Size = new System.Drawing.Size(120, 25);
-            this.textBox86.TabIndex = 10;
-            this.textBox86.TextChanged += new System.EventHandler(this.textBox86_TextChanged);
-            // 
-            // textBox87
-            // 
-            this.textBox87.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox87.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox87.Location = new System.Drawing.Point(89, 92);
-            this.textBox87.Name = "textBox87";
-            this.textBox87.Size = new System.Drawing.Size(120, 25);
-            this.textBox87.TabIndex = 9;
-            this.textBox87.TextChanged += new System.EventHandler(this.textBox87_TextChanged);
-            // 
-            // textBox88
-            // 
-            this.textBox88.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox88.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox88.Location = new System.Drawing.Point(89, 67);
-            this.textBox88.Name = "textBox88";
-            this.textBox88.Size = new System.Drawing.Size(120, 25);
-            this.textBox88.TabIndex = 8;
-            this.textBox88.TextChanged += new System.EventHandler(this.textBox88_TextChanged);
-            // 
-            // textBox89
-            // 
-            this.textBox89.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox89.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox89.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox89.Location = new System.Drawing.Point(228, 116);
-            this.textBox89.Name = "textBox89";
-            this.textBox89.ReadOnly = true;
-            this.textBox89.Size = new System.Drawing.Size(91, 26);
-            this.textBox89.TabIndex = 7;
-            this.textBox89.Text = "연락처";
-            this.textBox89.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox90
-            // 
-            this.textBox90.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox90.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox90.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox90.Location = new System.Drawing.Point(228, 92);
-            this.textBox90.Name = "textBox90";
-            this.textBox90.ReadOnly = true;
-            this.textBox90.Size = new System.Drawing.Size(91, 26);
-            this.textBox90.TabIndex = 6;
-            this.textBox90.Text = "창고명";
-            this.textBox90.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox91
-            // 
-            this.textBox91.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox91.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox91.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox91.Location = new System.Drawing.Point(228, 67);
-            this.textBox91.Name = "textBox91";
-            this.textBox91.ReadOnly = true;
-            this.textBox91.Size = new System.Drawing.Size(91, 26);
-            this.textBox91.TabIndex = 5;
-            this.textBox91.Text = "품목 번호";
-            this.textBox91.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox92
-            // 
-            this.textBox92.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox92.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox92.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox92.Location = new System.Drawing.Point(13, 117);
-            this.textBox92.Name = "textBox92";
-            this.textBox92.ReadOnly = true;
-            this.textBox92.Size = new System.Drawing.Size(76, 26);
-            this.textBox92.TabIndex = 4;
-            this.textBox92.Text = "배송담당";
-            this.textBox92.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox93
-            // 
-            this.textBox93.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox93.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox93.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox93.Location = new System.Drawing.Point(13, 92);
-            this.textBox93.Name = "textBox93";
-            this.textBox93.ReadOnly = true;
-            this.textBox93.Size = new System.Drawing.Size(76, 26);
-            this.textBox93.TabIndex = 3;
-            this.textBox93.Text = "담당자";
-            this.textBox93.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox94
-            // 
-            this.textBox94.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox94.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox94.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox94.Location = new System.Drawing.Point(13, 67);
-            this.textBox94.Name = "textBox94";
-            this.textBox94.ReadOnly = true;
-            this.textBox94.Size = new System.Drawing.Size(76, 26);
-            this.textBox94.TabIndex = 2;
-            this.textBox94.Text = "품목 명";
-            this.textBox94.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox95
-            // 
-            this.textBox95.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox95.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox95.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox95.Location = new System.Drawing.Point(155, 9);
-            this.textBox95.Name = "textBox95";
-            this.textBox95.ReadOnly = true;
-            this.textBox95.Size = new System.Drawing.Size(147, 28);
-            this.textBox95.TabIndex = 1;
-            this.textBox95.Text = "입고 등록";
-            this.textBox95.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // panel53
-            // 
-            this.panel53.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel53.Controls.Add(this.button43);
-            this.panel53.Controls.Add(this.panel54);
-            this.panel53.Location = new System.Drawing.Point(669, 52);
-            this.panel53.Name = "panel53";
-            this.panel53.Size = new System.Drawing.Size(507, 452);
-            this.panel53.TabIndex = 7;
-            this.panel53.Visible = false;
-            // 
-            // button43
-            // 
-            this.button43.BackColor = System.Drawing.Color.LimeGreen;
-            this.button43.FlatAppearance.BorderSize = 0;
-            this.button43.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button43.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button43.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button43.Location = new System.Drawing.Point(400, 407);
-            this.button43.Name = "button43";
-            this.button43.Size = new System.Drawing.Size(89, 34);
-            this.button43.TabIndex = 1;
-            this.button43.Text = "등 록";
-            this.button43.UseVisualStyleBackColor = false;
-            this.button43.Click += new System.EventHandler(this.button43_Click);
-            // 
-            // panel54
-            // 
-            this.panel54.AutoScroll = true;
-            this.panel54.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel54.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel54.Controls.Add(this.textBox96);
-            this.panel54.Controls.Add(this.textBox97);
-            this.panel54.Controls.Add(this.textBox98);
-            this.panel54.Controls.Add(this.textBox99);
-            this.panel54.Controls.Add(this.textBox100);
-            this.panel54.Controls.Add(this.panel55);
-            this.panel54.Controls.Add(this.textBox102);
-            this.panel54.Controls.Add(this.textBox103);
-            this.panel54.Controls.Add(this.textBox104);
-            this.panel54.Controls.Add(this.textBox105);
-            this.panel54.Controls.Add(this.textBox106);
-            this.panel54.Controls.Add(this.textBox107);
-            this.panel54.Controls.Add(this.textBox108);
-            this.panel54.Controls.Add(this.textBox109);
-            this.panel54.Controls.Add(this.textBox110);
-            this.panel54.Controls.Add(this.textBox111);
-            this.panel54.Controls.Add(this.textBox112);
-            this.panel54.Controls.Add(this.textBox113);
-            this.panel54.Controls.Add(this.textBox114);
-            this.panel54.Location = new System.Drawing.Point(14, 10);
-            this.panel54.Name = "panel54";
-            this.panel54.Size = new System.Drawing.Size(480, 396);
-            this.panel54.TabIndex = 0;
-            // 
-            // textBox96
-            // 
-            this.textBox96.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox96.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox96.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox96.Location = new System.Drawing.Point(412, 362);
-            this.textBox96.Name = "textBox96";
-            this.textBox96.ReadOnly = true;
-            this.textBox96.Size = new System.Drawing.Size(39, 19);
-            this.textBox96.TabIndex = 20;
-            this.textBox96.Text = "(인)";
-            this.textBox96.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox97
-            // 
-            this.textBox97.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox97.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox97.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox97.Location = new System.Drawing.Point(337, 361);
-            this.textBox97.Name = "textBox97";
-            this.textBox97.ReadOnly = true;
-            this.textBox97.Size = new System.Drawing.Size(75, 19);
-            this.textBox97.TabIndex = 19;
-            // 
-            // textBox98
-            // 
-            this.textBox98.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox98.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox98.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox98.Location = new System.Drawing.Point(266, 363);
-            this.textBox98.Name = "textBox98";
-            this.textBox98.ReadOnly = true;
-            this.textBox98.Size = new System.Drawing.Size(65, 18);
-            this.textBox98.TabIndex = 18;
-            this.textBox98.Text = "담당자 : ";
-            this.textBox98.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox99
-            // 
-            this.textBox99.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox99.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox99.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox99.Location = new System.Drawing.Point(341, 339);
-            this.textBox99.Name = "textBox99";
-            this.textBox99.ReadOnly = true;
-            this.textBox99.Size = new System.Drawing.Size(100, 19);
-            this.textBox99.TabIndex = 17;
-            this.textBox99.TextChanged += new System.EventHandler(this.textBox99_TextChanged);
-            // 
-            // textBox100
-            // 
-            this.textBox100.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox100.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox100.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox100.Location = new System.Drawing.Point(239, 341);
-            this.textBox100.Name = "textBox100";
-            this.textBox100.ReadOnly = true;
-            this.textBox100.Size = new System.Drawing.Size(100, 18);
-            this.textBox100.TabIndex = 16;
-            this.textBox100.Text = "발주 날짜";
-            this.textBox100.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // panel55
-            // 
-            this.panel55.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel55.Controls.Add(this.textBox101);
-            this.panel55.Location = new System.Drawing.Point(13, 158);
-            this.panel55.Name = "panel55";
-            this.panel55.Size = new System.Drawing.Size(428, 175);
-            this.panel55.TabIndex = 15;
-            // 
-            // textBox101
-            // 
-            this.textBox101.AcceptsReturn = true;
-            this.textBox101.AcceptsTab = true;
-            this.textBox101.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox101.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox101.Location = new System.Drawing.Point(23, 8);
-            this.textBox101.Multiline = true;
-            this.textBox101.Name = "textBox101";
-            this.textBox101.Size = new System.Drawing.Size(400, 151);
-            this.textBox101.TabIndex = 14;
-            this.textBox101.TextChanged += new System.EventHandler(this.textBox101_TextChanged);
-            // 
-            // textBox102
-            // 
-            this.textBox102.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox102.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox102.Location = new System.Drawing.Point(319, 117);
-            this.textBox102.Name = "textBox102";
-            this.textBox102.Size = new System.Drawing.Size(122, 25);
-            this.textBox102.TabIndex = 13;
-            this.textBox102.TextChanged += new System.EventHandler(this.textBox102_TextChanged);
-            // 
-            // textBox103
-            // 
-            this.textBox103.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox103.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox103.Location = new System.Drawing.Point(319, 92);
-            this.textBox103.Name = "textBox103";
-            this.textBox103.Size = new System.Drawing.Size(122, 25);
-            this.textBox103.TabIndex = 12;
-            this.textBox103.TextChanged += new System.EventHandler(this.textBox103_TextChanged);
-            // 
-            // textBox104
-            // 
-            this.textBox104.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox104.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox104.Location = new System.Drawing.Point(319, 67);
-            this.textBox104.Name = "textBox104";
-            this.textBox104.Size = new System.Drawing.Size(122, 25);
-            this.textBox104.TabIndex = 11;
-            this.textBox104.TextChanged += new System.EventHandler(this.textBox104_TextChanged);
-            // 
-            // textBox105
-            // 
-            this.textBox105.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox105.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox105.Location = new System.Drawing.Point(89, 117);
-            this.textBox105.Name = "textBox105";
-            this.textBox105.Size = new System.Drawing.Size(120, 25);
-            this.textBox105.TabIndex = 10;
-            this.textBox105.TextChanged += new System.EventHandler(this.textBox105_TextChanged);
-            // 
-            // textBox106
-            // 
-            this.textBox106.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox106.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox106.Location = new System.Drawing.Point(89, 92);
-            this.textBox106.Name = "textBox106";
-            this.textBox106.Size = new System.Drawing.Size(120, 25);
-            this.textBox106.TabIndex = 9;
-            this.textBox106.TextChanged += new System.EventHandler(this.textBox106_TextChanged);
-            // 
-            // textBox107
-            // 
-            this.textBox107.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox107.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox107.Location = new System.Drawing.Point(89, 67);
-            this.textBox107.Name = "textBox107";
-            this.textBox107.Size = new System.Drawing.Size(120, 25);
-            this.textBox107.TabIndex = 8;
-            this.textBox107.TextChanged += new System.EventHandler(this.textBox107_TextChanged);
-            // 
-            // textBox108
-            // 
-            this.textBox108.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox108.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox108.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox108.Location = new System.Drawing.Point(228, 116);
-            this.textBox108.Name = "textBox108";
-            this.textBox108.ReadOnly = true;
-            this.textBox108.Size = new System.Drawing.Size(91, 26);
-            this.textBox108.TabIndex = 7;
-            this.textBox108.Text = "연락처";
-            this.textBox108.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox109
-            // 
-            this.textBox109.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox109.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox109.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox109.Location = new System.Drawing.Point(228, 92);
-            this.textBox109.Name = "textBox109";
-            this.textBox109.ReadOnly = true;
-            this.textBox109.Size = new System.Drawing.Size(91, 26);
-            this.textBox109.TabIndex = 6;
-            this.textBox109.Text = "창고명";
-            this.textBox109.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox110
-            // 
-            this.textBox110.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox110.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox110.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox110.Location = new System.Drawing.Point(228, 67);
-            this.textBox110.Name = "textBox110";
-            this.textBox110.ReadOnly = true;
-            this.textBox110.Size = new System.Drawing.Size(91, 26);
-            this.textBox110.TabIndex = 5;
-            this.textBox110.Text = "품목 번호";
-            this.textBox110.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox111
-            // 
-            this.textBox111.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox111.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox111.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox111.Location = new System.Drawing.Point(13, 117);
-            this.textBox111.Name = "textBox111";
-            this.textBox111.ReadOnly = true;
-            this.textBox111.Size = new System.Drawing.Size(76, 26);
-            this.textBox111.TabIndex = 4;
-            this.textBox111.Text = "배송담당";
-            this.textBox111.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox112
-            // 
-            this.textBox112.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox112.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox112.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox112.Location = new System.Drawing.Point(13, 92);
-            this.textBox112.Name = "textBox112";
-            this.textBox112.ReadOnly = true;
-            this.textBox112.Size = new System.Drawing.Size(76, 26);
-            this.textBox112.TabIndex = 3;
-            this.textBox112.Text = "수 량";
-            this.textBox112.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox113
-            // 
-            this.textBox113.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox113.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox113.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox113.Location = new System.Drawing.Point(13, 67);
-            this.textBox113.Name = "textBox113";
-            this.textBox113.ReadOnly = true;
-            this.textBox113.Size = new System.Drawing.Size(76, 26);
-            this.textBox113.TabIndex = 2;
-            this.textBox113.Text = "품목 명";
-            this.textBox113.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox114
-            // 
-            this.textBox114.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox114.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox114.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox114.Location = new System.Drawing.Point(155, 9);
-            this.textBox114.Name = "textBox114";
-            this.textBox114.ReadOnly = true;
-            this.textBox114.Size = new System.Drawing.Size(166, 28);
-            this.textBox114.TabIndex = 1;
-            this.textBox114.Text = "지급관리 등록";
-            this.textBox114.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // panel67
-            // 
-            this.panel67.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel67.Controls.Add(this.button55);
-            this.panel67.Controls.Add(this.panel68);
-            this.panel67.Location = new System.Drawing.Point(669, 52);
-            this.panel67.Name = "panel67";
-            this.panel67.Size = new System.Drawing.Size(507, 452);
-            this.panel67.TabIndex = 8;
-            this.panel67.Visible = false;
-            // 
-            // button55
-            // 
-            this.button55.BackColor = System.Drawing.Color.LimeGreen;
-            this.button55.FlatAppearance.BorderSize = 0;
-            this.button55.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button55.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button55.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button55.Location = new System.Drawing.Point(400, 407);
-            this.button55.Name = "button55";
-            this.button55.Size = new System.Drawing.Size(89, 34);
-            this.button55.TabIndex = 1;
-            this.button55.Text = "등 록";
-            this.button55.UseVisualStyleBackColor = false;
-            this.button55.Click += new System.EventHandler(this.button55_Click);
-            // 
-            // panel68
-            // 
-            this.panel68.AutoScroll = true;
-            this.panel68.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel68.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel68.Controls.Add(this.textBox129);
-            this.panel68.Controls.Add(this.textBox130);
-            this.panel68.Controls.Add(this.textBox132);
-            this.panel68.Controls.Add(this.textBox133);
-            this.panel68.Controls.Add(this.textBox134);
-            this.panel68.Controls.Add(this.panel69);
-            this.panel68.Controls.Add(this.textBox136);
-            this.panel68.Controls.Add(this.textBox137);
-            this.panel68.Controls.Add(this.textBox138);
-            this.panel68.Controls.Add(this.textBox139);
-            this.panel68.Controls.Add(this.textBox140);
-            this.panel68.Controls.Add(this.textBox141);
-            this.panel68.Controls.Add(this.textBox142);
-            this.panel68.Controls.Add(this.textBox143);
-            this.panel68.Controls.Add(this.textBox144);
-            this.panel68.Controls.Add(this.textBox145);
-            this.panel68.Controls.Add(this.textBox146);
-            this.panel68.Controls.Add(this.textBox147);
-            this.panel68.Controls.Add(this.textBox148);
-            this.panel68.Location = new System.Drawing.Point(14, 10);
-            this.panel68.Name = "panel68";
-            this.panel68.Size = new System.Drawing.Size(480, 396);
-            this.panel68.TabIndex = 0;
-            // 
-            // textBox129
-            // 
-            this.textBox129.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox129.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox129.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox129.Location = new System.Drawing.Point(412, 362);
-            this.textBox129.Name = "textBox129";
-            this.textBox129.ReadOnly = true;
-            this.textBox129.Size = new System.Drawing.Size(39, 19);
-            this.textBox129.TabIndex = 20;
-            this.textBox129.Text = "(인)";
-            this.textBox129.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox130
-            // 
-            this.textBox130.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox130.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox130.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox130.Location = new System.Drawing.Point(337, 361);
-            this.textBox130.Name = "textBox130";
-            this.textBox130.ReadOnly = true;
-            this.textBox130.Size = new System.Drawing.Size(75, 19);
-            this.textBox130.TabIndex = 19;
-            this.textBox130.TextChanged += new System.EventHandler(this.textBox130_TextChanged);
-            // 
-            // textBox132
-            // 
-            this.textBox132.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox132.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox132.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox132.Location = new System.Drawing.Point(266, 363);
-            this.textBox132.Name = "textBox132";
-            this.textBox132.ReadOnly = true;
-            this.textBox132.Size = new System.Drawing.Size(65, 18);
-            this.textBox132.TabIndex = 18;
-            this.textBox132.Text = "담당자 : ";
-            this.textBox132.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox133
-            // 
-            this.textBox133.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox133.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox133.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox133.Location = new System.Drawing.Point(341, 339);
-            this.textBox133.Name = "textBox133";
-            this.textBox133.ReadOnly = true;
-            this.textBox133.Size = new System.Drawing.Size(100, 19);
-            this.textBox133.TabIndex = 17;
-            this.textBox133.TextChanged += new System.EventHandler(this.textBox133_TextChanged);
-            // 
-            // textBox134
-            // 
-            this.textBox134.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox134.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox134.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox134.Location = new System.Drawing.Point(239, 341);
-            this.textBox134.Name = "textBox134";
-            this.textBox134.ReadOnly = true;
-            this.textBox134.Size = new System.Drawing.Size(100, 18);
-            this.textBox134.TabIndex = 16;
-            this.textBox134.Text = "발주 날짜";
-            this.textBox134.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // panel69
-            // 
-            this.panel69.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel69.Controls.Add(this.textBox135);
-            this.panel69.Location = new System.Drawing.Point(13, 158);
-            this.panel69.Name = "panel69";
-            this.panel69.Size = new System.Drawing.Size(428, 175);
-            this.panel69.TabIndex = 15;
-            // 
-            // textBox135
-            // 
-            this.textBox135.AcceptsReturn = true;
-            this.textBox135.AcceptsTab = true;
-            this.textBox135.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox135.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox135.Location = new System.Drawing.Point(3, 8);
-            this.textBox135.Multiline = true;
-            this.textBox135.Name = "textBox135";
-            this.textBox135.Size = new System.Drawing.Size(420, 151);
-            this.textBox135.TabIndex = 14;
-            this.textBox135.TextChanged += new System.EventHandler(this.textBox135_TextChanged);
-            // 
-            // textBox136
-            // 
-            this.textBox136.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox136.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox136.Location = new System.Drawing.Point(319, 117);
-            this.textBox136.Name = "textBox136";
-            this.textBox136.Size = new System.Drawing.Size(122, 25);
-            this.textBox136.TabIndex = 13;
-            this.textBox136.TextChanged += new System.EventHandler(this.textBox136_TextChanged);
-            // 
-            // textBox137
-            // 
-            this.textBox137.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox137.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox137.Location = new System.Drawing.Point(319, 92);
-            this.textBox137.Name = "textBox137";
-            this.textBox137.Size = new System.Drawing.Size(122, 25);
-            this.textBox137.TabIndex = 12;
-            this.textBox137.TextChanged += new System.EventHandler(this.textBox137_TextChanged);
-            // 
-            // textBox138
-            // 
-            this.textBox138.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox138.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox138.Location = new System.Drawing.Point(319, 67);
-            this.textBox138.Name = "textBox138";
-            this.textBox138.Size = new System.Drawing.Size(122, 25);
-            this.textBox138.TabIndex = 11;
-            this.textBox138.TextChanged += new System.EventHandler(this.textBox138_TextChanged);
-            // 
-            // textBox139
-            // 
-            this.textBox139.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox139.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox139.Location = new System.Drawing.Point(89, 117);
-            this.textBox139.Name = "textBox139";
-            this.textBox139.Size = new System.Drawing.Size(120, 25);
-            this.textBox139.TabIndex = 10;
-            this.textBox139.TextChanged += new System.EventHandler(this.textBox139_TextChanged);
-            // 
-            // textBox140
-            // 
-            this.textBox140.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox140.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox140.Location = new System.Drawing.Point(89, 92);
-            this.textBox140.Name = "textBox140";
-            this.textBox140.Size = new System.Drawing.Size(120, 25);
-            this.textBox140.TabIndex = 9;
-            this.textBox140.TextChanged += new System.EventHandler(this.textBox140_TextChanged);
-            // 
-            // textBox141
-            // 
-            this.textBox141.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox141.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox141.Location = new System.Drawing.Point(89, 67);
-            this.textBox141.Name = "textBox141";
-            this.textBox141.Size = new System.Drawing.Size(120, 25);
-            this.textBox141.TabIndex = 8;
-            this.textBox141.TextChanged += new System.EventHandler(this.textBox141_TextChanged);
-            // 
-            // textBox142
-            // 
-            this.textBox142.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox142.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox142.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox142.Location = new System.Drawing.Point(228, 116);
-            this.textBox142.Name = "textBox142";
-            this.textBox142.ReadOnly = true;
-            this.textBox142.Size = new System.Drawing.Size(91, 26);
-            this.textBox142.TabIndex = 7;
-            this.textBox142.Text = "연락처";
-            this.textBox142.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox143
-            // 
-            this.textBox143.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox143.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox143.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox143.Location = new System.Drawing.Point(228, 92);
-            this.textBox143.Name = "textBox143";
-            this.textBox143.ReadOnly = true;
-            this.textBox143.Size = new System.Drawing.Size(91, 26);
-            this.textBox143.TabIndex = 6;
-            this.textBox143.Text = "창고명";
-            this.textBox143.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox144
-            // 
-            this.textBox144.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox144.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox144.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox144.Location = new System.Drawing.Point(228, 67);
-            this.textBox144.Name = "textBox144";
-            this.textBox144.ReadOnly = true;
-            this.textBox144.Size = new System.Drawing.Size(91, 26);
-            this.textBox144.TabIndex = 5;
-            this.textBox144.Text = "품목 번호";
-            this.textBox144.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox145
-            // 
-            this.textBox145.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox145.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox145.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox145.Location = new System.Drawing.Point(13, 117);
-            this.textBox145.Name = "textBox145";
-            this.textBox145.ReadOnly = true;
-            this.textBox145.Size = new System.Drawing.Size(76, 26);
-            this.textBox145.TabIndex = 4;
-            this.textBox145.Text = "거래회사";
-            this.textBox145.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox146
-            // 
-            this.textBox146.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox146.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox146.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox146.Location = new System.Drawing.Point(13, 92);
-            this.textBox146.Name = "textBox146";
-            this.textBox146.ReadOnly = true;
-            this.textBox146.Size = new System.Drawing.Size(76, 26);
-            this.textBox146.TabIndex = 3;
-            this.textBox146.Text = "담당자";
-            this.textBox146.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox147
-            // 
-            this.textBox147.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
-            this.textBox147.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.textBox147.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox147.Location = new System.Drawing.Point(13, 67);
-            this.textBox147.Name = "textBox147";
-            this.textBox147.ReadOnly = true;
-            this.textBox147.Size = new System.Drawing.Size(76, 26);
-            this.textBox147.TabIndex = 2;
-            this.textBox147.Text = "품목 명";
-            this.textBox147.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // textBox148
-            // 
-            this.textBox148.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.textBox148.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox148.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox148.Location = new System.Drawing.Point(155, 9);
-            this.textBox148.Name = "textBox148";
-            this.textBox148.ReadOnly = true;
-            this.textBox148.Size = new System.Drawing.Size(166, 28);
-            this.textBox148.TabIndex = 1;
-            this.textBox148.Text = "수리 등록";
-            this.textBox148.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // panel26
-            // 
-            this.panel26.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel26.Controls.Add(this.textBox26);
-            this.panel26.Controls.Add(this.button29);
-            this.panel26.Controls.Add(this.panel27);
-            this.panel26.Location = new System.Drawing.Point(669, 52);
-            this.panel26.Name = "panel26";
-            this.panel26.Size = new System.Drawing.Size(507, 452);
-            this.panel26.TabIndex = 4;
-            this.panel26.Visible = false;
-            // 
-            // textBox26
-            // 
-            this.textBox26.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox26.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox26.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox26.Location = new System.Drawing.Point(188, 27);
-            this.textBox26.Name = "textBox26";
-            this.textBox26.ReadOnly = true;
-            this.textBox26.Size = new System.Drawing.Size(147, 28);
-            this.textBox26.TabIndex = 1;
-            this.textBox26.Text = "가맹점 정보";
-            this.textBox26.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // button29
-            // 
-            this.button29.BackColor = System.Drawing.Color.LimeGreen;
-            this.button29.FlatAppearance.BorderSize = 0;
-            this.button29.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button29.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button29.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button29.Location = new System.Drawing.Point(400, 407);
-            this.button29.Name = "button29";
-            this.button29.Size = new System.Drawing.Size(89, 34);
-            this.button29.TabIndex = 1;
-            this.button29.Text = "수 정";
-            this.button29.UseVisualStyleBackColor = false;
-            // 
-            // panel27
-            // 
-            this.panel27.AutoScroll = true;
-            this.panel27.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel27.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel27.Controls.Add(this.dataGridView8);
-            this.panel27.Location = new System.Drawing.Point(14, 75);
-            this.panel27.Name = "panel27";
-            this.panel27.Size = new System.Drawing.Size(480, 331);
-            this.panel27.TabIndex = 0;
-            // 
-            // dataGridView8
-            // 
-            this.dataGridView8.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView8.Location = new System.Drawing.Point(0, 3);
-            this.dataGridView8.Name = "dataGridView8";
-            this.dataGridView8.RowHeadersWidth = 62;
-            this.dataGridView8.RowTemplate.Height = 23;
-            this.dataGridView8.Size = new System.Drawing.Size(470, 263);
-            this.dataGridView8.TabIndex = 0;
-            // 
-            // panel46
-            // 
-            this.panel46.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel46.Controls.Add(this.textBox73);
-            this.panel46.Controls.Add(this.button40);
-            this.panel46.Controls.Add(this.panel47);
-            this.panel46.Location = new System.Drawing.Point(669, 52);
-            this.panel46.Name = "panel46";
-            this.panel46.Size = new System.Drawing.Size(507, 452);
-            this.panel46.TabIndex = 5;
-            this.panel46.Visible = false;
-            // 
-            // textBox73
-            // 
-            this.textBox73.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox73.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox73.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox73.Location = new System.Drawing.Point(188, 27);
-            this.textBox73.Name = "textBox73";
-            this.textBox73.ReadOnly = true;
-            this.textBox73.Size = new System.Drawing.Size(147, 28);
-            this.textBox73.TabIndex = 1;
-            this.textBox73.Text = "가맹점 정보";
-            this.textBox73.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // button40
-            // 
-            this.button40.BackColor = System.Drawing.Color.LimeGreen;
-            this.button40.FlatAppearance.BorderSize = 0;
-            this.button40.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button40.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button40.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button40.Location = new System.Drawing.Point(400, 407);
-            this.button40.Name = "button40";
-            this.button40.Size = new System.Drawing.Size(89, 34);
-            this.button40.TabIndex = 1;
-            this.button40.Text = "수 정";
-            this.button40.UseVisualStyleBackColor = false;
-            // 
-            // panel47
-            // 
-            this.panel47.AutoScroll = true;
-            this.panel47.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel47.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel47.Controls.Add(this.dataGridView14);
-            this.panel47.Location = new System.Drawing.Point(14, 75);
-            this.panel47.Name = "panel47";
-            this.panel47.Size = new System.Drawing.Size(480, 331);
-            this.panel47.TabIndex = 0;
-            // 
-            // dataGridView14
-            // 
-            this.dataGridView14.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView14.Location = new System.Drawing.Point(0, 3);
-            this.dataGridView14.Name = "dataGridView14";
-            this.dataGridView14.RowHeadersWidth = 62;
-            this.dataGridView14.RowTemplate.Height = 23;
-            this.dataGridView14.Size = new System.Drawing.Size(470, 263);
-            this.dataGridView14.TabIndex = 0;
-            // 
-            // panel48
-            // 
-            this.panel48.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel48.Controls.Add(this.textBox74);
-            this.panel48.Controls.Add(this.textBox75);
-            this.panel48.Controls.Add(this.textBox76);
-            this.panel48.Controls.Add(this.button41);
-            this.panel48.Controls.Add(this.panel49);
-            this.panel48.Location = new System.Drawing.Point(669, 52);
-            this.panel48.Name = "panel48";
-            this.panel48.Size = new System.Drawing.Size(507, 452);
-            this.panel48.TabIndex = 7;
-            this.panel48.Visible = false;
-            // 
-            // textBox74
-            // 
-            this.textBox74.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox74.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox74.Location = new System.Drawing.Point(16, 413);
-            this.textBox74.Name = "textBox74";
-            this.textBox74.ReadOnly = true;
-            this.textBox74.Size = new System.Drawing.Size(333, 28);
-            this.textBox74.TabIndex = 3;
-            // 
-            // textBox75
-            // 
-            this.textBox75.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox75.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox75.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox75.Location = new System.Drawing.Point(125, 20);
-            this.textBox75.Name = "textBox75";
-            this.textBox75.ReadOnly = true;
-            this.textBox75.Size = new System.Drawing.Size(101, 28);
-            this.textBox75.TabIndex = 2;
-            this.textBox75.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // textBox76
-            // 
-            this.textBox76.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox76.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox76.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox76.Location = new System.Drawing.Point(222, 24);
-            this.textBox76.Name = "textBox76";
-            this.textBox76.ReadOnly = true;
-            this.textBox76.Size = new System.Drawing.Size(147, 28);
-            this.textBox76.TabIndex = 1;
-            this.textBox76.Text = "품목 내역";
-            this.textBox76.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // button41
-            // 
-            this.button41.BackColor = System.Drawing.Color.LimeGreen;
-            this.button41.FlatAppearance.BorderSize = 0;
-            this.button41.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button41.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button41.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button41.Location = new System.Drawing.Point(400, 407);
-            this.button41.Name = "button41";
-            this.button41.Size = new System.Drawing.Size(89, 34);
-            this.button41.TabIndex = 1;
-            this.button41.Text = "수 정";
-            this.button41.UseVisualStyleBackColor = false;
-            // 
-            // panel49
-            // 
-            this.panel49.AutoScroll = true;
-            this.panel49.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel49.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel49.Controls.Add(this.dataGridView15);
-            this.panel49.Location = new System.Drawing.Point(14, 75);
-            this.panel49.Name = "panel49";
-            this.panel49.Size = new System.Drawing.Size(480, 331);
-            this.panel49.TabIndex = 0;
-            // 
-            // dataGridView15
-            // 
-            this.dataGridView15.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView15.Location = new System.Drawing.Point(0, 3);
-            this.dataGridView15.Name = "dataGridView15";
-            this.dataGridView15.RowHeadersWidth = 62;
-            this.dataGridView15.RowTemplate.Height = 23;
-            this.dataGridView15.Size = new System.Drawing.Size(470, 263);
-            this.dataGridView15.TabIndex = 0;
-            // 
-            // panel40
-            // 
-            this.panel40.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel40.Controls.Add(this.textBox69);
-            this.panel40.Controls.Add(this.textBox70);
-            this.panel40.Controls.Add(this.textBox71);
-            this.panel40.Controls.Add(this.button38);
-            this.panel40.Controls.Add(this.panel43);
-            this.panel40.Location = new System.Drawing.Point(669, 52);
-            this.panel40.Name = "panel40";
-            this.panel40.Size = new System.Drawing.Size(507, 452);
-            this.panel40.TabIndex = 6;
-            this.panel40.Visible = false;
-            // 
-            // textBox69
-            // 
-            this.textBox69.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox69.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox69.Location = new System.Drawing.Point(16, 413);
-            this.textBox69.Name = "textBox69";
-            this.textBox69.ReadOnly = true;
-            this.textBox69.Size = new System.Drawing.Size(333, 28);
-            this.textBox69.TabIndex = 3;
-            // 
-            // textBox70
-            // 
-            this.textBox70.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox70.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox70.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox70.Location = new System.Drawing.Point(125, 20);
-            this.textBox70.Name = "textBox70";
-            this.textBox70.ReadOnly = true;
-            this.textBox70.Size = new System.Drawing.Size(101, 28);
-            this.textBox70.TabIndex = 2;
-            this.textBox70.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // textBox71
-            // 
-            this.textBox71.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox71.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox71.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox71.Location = new System.Drawing.Point(222, 24);
-            this.textBox71.Name = "textBox71";
-            this.textBox71.ReadOnly = true;
-            this.textBox71.Size = new System.Drawing.Size(147, 28);
-            this.textBox71.TabIndex = 1;
-            this.textBox71.Text = "품목 내역";
-            this.textBox71.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // button38
-            // 
-            this.button38.BackColor = System.Drawing.Color.LimeGreen;
-            this.button38.FlatAppearance.BorderSize = 0;
-            this.button38.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button38.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button38.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button38.Location = new System.Drawing.Point(400, 407);
-            this.button38.Name = "button38";
-            this.button38.Size = new System.Drawing.Size(89, 34);
-            this.button38.TabIndex = 1;
-            this.button38.Text = "수 정";
-            this.button38.UseVisualStyleBackColor = false;
-            // 
-            // panel43
-            // 
-            this.panel43.AutoScroll = true;
-            this.panel43.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel43.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel43.Controls.Add(this.dataGridView12);
-            this.panel43.Location = new System.Drawing.Point(14, 75);
-            this.panel43.Name = "panel43";
-            this.panel43.Size = new System.Drawing.Size(480, 331);
-            this.panel43.TabIndex = 0;
-            // 
-            // dataGridView12
-            // 
-            this.dataGridView12.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView12.Location = new System.Drawing.Point(0, 3);
-            this.dataGridView12.Name = "dataGridView12";
-            this.dataGridView12.RowHeadersWidth = 62;
-            this.dataGridView12.RowTemplate.Height = 23;
-            this.dataGridView12.Size = new System.Drawing.Size(470, 263);
-            this.dataGridView12.TabIndex = 0;
-            // 
-            // panel28
-            // 
-            this.panel28.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel28.Controls.Add(this.textBox27);
-            this.panel28.Controls.Add(this.textBox28);
-            this.panel28.Controls.Add(this.textBox29);
-            this.panel28.Controls.Add(this.button30);
-            this.panel28.Controls.Add(this.panel29);
-            this.panel28.Location = new System.Drawing.Point(669, 52);
-            this.panel28.Name = "panel28";
-            this.panel28.Size = new System.Drawing.Size(507, 452);
-            this.panel28.TabIndex = 5;
-            this.panel28.Visible = false;
-            // 
-            // textBox27
-            // 
-            this.textBox27.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox27.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox27.Location = new System.Drawing.Point(16, 413);
-            this.textBox27.Name = "textBox27";
-            this.textBox27.ReadOnly = true;
-            this.textBox27.Size = new System.Drawing.Size(333, 28);
-            this.textBox27.TabIndex = 3;
-            // 
-            // textBox28
-            // 
-            this.textBox28.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox28.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox28.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox28.Location = new System.Drawing.Point(125, 20);
-            this.textBox28.Name = "textBox28";
-            this.textBox28.ReadOnly = true;
-            this.textBox28.Size = new System.Drawing.Size(101, 28);
-            this.textBox28.TabIndex = 2;
-            this.textBox28.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // textBox29
-            // 
-            this.textBox29.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox29.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox29.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox29.Location = new System.Drawing.Point(222, 24);
-            this.textBox29.Name = "textBox29";
-            this.textBox29.ReadOnly = true;
-            this.textBox29.Size = new System.Drawing.Size(147, 28);
-            this.textBox29.TabIndex = 1;
-            this.textBox29.Text = "품목 내역";
-            this.textBox29.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // button30
-            // 
-            this.button30.BackColor = System.Drawing.Color.LimeGreen;
-            this.button30.FlatAppearance.BorderSize = 0;
-            this.button30.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button30.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button30.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button30.Location = new System.Drawing.Point(400, 407);
-            this.button30.Name = "button30";
-            this.button30.Size = new System.Drawing.Size(89, 34);
-            this.button30.TabIndex = 1;
-            this.button30.Text = "수 정";
-            this.button30.UseVisualStyleBackColor = false;
-            // 
-            // panel29
-            // 
-            this.panel29.AutoScroll = true;
-            this.panel29.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel29.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel29.Controls.Add(this.dataGridView9);
-            this.panel29.Location = new System.Drawing.Point(14, 75);
-            this.panel29.Name = "panel29";
-            this.panel29.Size = new System.Drawing.Size(480, 331);
-            this.panel29.TabIndex = 0;
-            // 
-            // dataGridView9
-            // 
-            this.dataGridView9.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView9.Location = new System.Drawing.Point(0, 3);
-            this.dataGridView9.Name = "dataGridView9";
-            this.dataGridView9.RowHeadersWidth = 62;
-            this.dataGridView9.RowTemplate.Height = 23;
-            this.dataGridView9.Size = new System.Drawing.Size(470, 263);
-            this.dataGridView9.TabIndex = 0;
-            // 
-            // panel44
-            // 
-            this.panel44.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel44.Controls.Add(this.textBox67);
-            this.panel44.Controls.Add(this.textBox72);
-            this.panel44.Controls.Add(this.button39);
-            this.panel44.Controls.Add(this.panel45);
-            this.panel44.Location = new System.Drawing.Point(669, 52);
-            this.panel44.Name = "panel44";
-            this.panel44.Size = new System.Drawing.Size(507, 452);
-            this.panel44.TabIndex = 6;
-            this.panel44.Visible = false;
-            // 
-            // textBox67
-            // 
-            this.textBox67.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox67.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox67.Location = new System.Drawing.Point(16, 413);
-            this.textBox67.Name = "textBox67";
-            this.textBox67.ReadOnly = true;
-            this.textBox67.Size = new System.Drawing.Size(333, 28);
-            this.textBox67.TabIndex = 3;
-            // 
-            // textBox72
-            // 
-            this.textBox72.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox72.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox72.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox72.Location = new System.Drawing.Point(189, 22);
-            this.textBox72.Name = "textBox72";
-            this.textBox72.ReadOnly = true;
-            this.textBox72.Size = new System.Drawing.Size(147, 28);
-            this.textBox72.TabIndex = 1;
-            this.textBox72.Text = "품목 내역";
-            this.textBox72.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // button39
-            // 
-            this.button39.BackColor = System.Drawing.Color.LimeGreen;
-            this.button39.FlatAppearance.BorderSize = 0;
-            this.button39.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button39.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button39.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button39.Location = new System.Drawing.Point(400, 407);
-            this.button39.Name = "button39";
-            this.button39.Size = new System.Drawing.Size(89, 34);
-            this.button39.TabIndex = 1;
-            this.button39.Text = "수 정";
-            this.button39.UseVisualStyleBackColor = false;
-            // 
-            // panel45
-            // 
-            this.panel45.AutoScroll = true;
-            this.panel45.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel45.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel45.Controls.Add(this.dataGridView13);
-            this.panel45.Location = new System.Drawing.Point(14, 75);
-            this.panel45.Name = "panel45";
-            this.panel45.Size = new System.Drawing.Size(480, 331);
-            this.panel45.TabIndex = 0;
-            // 
-            // dataGridView13
-            // 
-            this.dataGridView13.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView13.Location = new System.Drawing.Point(0, 3);
-            this.dataGridView13.Name = "dataGridView13";
-            this.dataGridView13.RowHeadersWidth = 62;
-            this.dataGridView13.RowTemplate.Height = 23;
-            this.dataGridView13.Size = new System.Drawing.Size(470, 263);
-            this.dataGridView13.TabIndex = 0;
-            // 
-            // panel11
-            // 
-            this.panel11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel11.Controls.Add(this.textBox9);
-            this.panel11.Controls.Add(this.textBox8);
-            this.panel11.Controls.Add(this.textBox7);
-            this.panel11.Controls.Add(this.button14);
-            this.panel11.Controls.Add(this.panel12);
-            this.panel11.Location = new System.Drawing.Point(669, 52);
-            this.panel11.Name = "panel11";
-            this.panel11.Size = new System.Drawing.Size(507, 452);
-            this.panel11.TabIndex = 4;
-            this.panel11.Visible = false;
-            // 
-            // textBox9
-            // 
-            this.textBox9.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox9.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox9.Location = new System.Drawing.Point(16, 413);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.ReadOnly = true;
-            this.textBox9.Size = new System.Drawing.Size(333, 28);
-            this.textBox9.TabIndex = 3;
-            this.textBox9.TextChanged += new System.EventHandler(this.textBox9_TextChanged);
-            // 
-            // textBox8
-            // 
-            this.textBox8.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox8.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox8.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox8.Location = new System.Drawing.Point(125, 20);
-            this.textBox8.Name = "textBox8";
-            this.textBox8.ReadOnly = true;
-            this.textBox8.Size = new System.Drawing.Size(101, 28);
-            this.textBox8.TabIndex = 2;
-            this.textBox8.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.textBox8.TextChanged += new System.EventHandler(this.textBox8_TextChanged);
-            // 
-            // textBox7
-            // 
-            this.textBox7.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox7.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox7.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox7.Location = new System.Drawing.Point(222, 24);
-            this.textBox7.Name = "textBox7";
-            this.textBox7.ReadOnly = true;
-            this.textBox7.Size = new System.Drawing.Size(147, 28);
-            this.textBox7.TabIndex = 1;
-            this.textBox7.Text = "품목 내역";
-            this.textBox7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // button14
-            // 
-            this.button14.BackColor = System.Drawing.Color.LimeGreen;
-            this.button14.FlatAppearance.BorderSize = 0;
-            this.button14.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button14.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button14.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button14.Location = new System.Drawing.Point(400, 407);
-            this.button14.Name = "button14";
-            this.button14.Size = new System.Drawing.Size(89, 34);
-            this.button14.TabIndex = 1;
-            this.button14.Text = "수 정";
-            this.button14.UseVisualStyleBackColor = false;
-            this.button14.Click += new System.EventHandler(this.button14_Click);
-            // 
-            // panel12
-            // 
-            this.panel12.AutoScroll = true;
-            this.panel12.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel12.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel12.Controls.Add(this.dataGridView4);
-            this.panel12.Location = new System.Drawing.Point(14, 75);
-            this.panel12.Name = "panel12";
-            this.panel12.Size = new System.Drawing.Size(480, 331);
-            this.panel12.TabIndex = 0;
-            // 
-            // dataGridView4
-            // 
-            this.dataGridView4.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView4.Location = new System.Drawing.Point(0, 3);
-            this.dataGridView4.Name = "dataGridView4";
-            this.dataGridView4.RowHeadersWidth = 62;
-            this.dataGridView4.RowTemplate.Height = 23;
-            this.dataGridView4.Size = new System.Drawing.Size(470, 263);
-            this.dataGridView4.TabIndex = 0;
-            this.dataGridView4.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView4_CellContentClick);
-            // 
-            // panel6
-            // 
-            this.panel6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel6.Controls.Add(this.textBox4);
-            this.panel6.Controls.Add(this.button9);
-            this.panel6.Controls.Add(this.panel7);
-            this.panel6.Location = new System.Drawing.Point(669, 52);
-            this.panel6.Name = "panel6";
-            this.panel6.Size = new System.Drawing.Size(507, 452);
-            this.panel6.TabIndex = 3;
-            this.panel6.Visible = false;
-            this.panel6.Paint += new System.Windows.Forms.PaintEventHandler(this.panel6_Paint);
-            // 
-            // textBox4
-            // 
-            this.textBox4.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox4.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox4.Location = new System.Drawing.Point(188, 27);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.ReadOnly = true;
-            this.textBox4.Size = new System.Drawing.Size(147, 28);
-            this.textBox4.TabIndex = 1;
-            this.textBox4.Text = "가맹점 정보";
-            this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // button9
-            // 
-            this.button9.BackColor = System.Drawing.Color.LimeGreen;
-            this.button9.FlatAppearance.BorderSize = 0;
-            this.button9.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button9.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button9.Location = new System.Drawing.Point(400, 407);
-            this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(89, 34);
-            this.button9.TabIndex = 1;
-            this.button9.Text = "수 정";
-            this.button9.UseVisualStyleBackColor = false;
-            this.button9.Click += new System.EventHandler(this.button9_Click);
-            // 
-            // panel7
-            // 
-            this.panel7.AutoScroll = true;
-            this.panel7.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel7.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel7.Controls.Add(this.dataGridView2);
-            this.panel7.Location = new System.Drawing.Point(14, 75);
-            this.panel7.Name = "panel7";
-            this.panel7.Size = new System.Drawing.Size(480, 331);
-            this.panel7.TabIndex = 0;
-            // 
-            // dataGridView2
-            // 
-            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView2.Location = new System.Drawing.Point(0, 3);
-            this.dataGridView2.Name = "dataGridView2";
-            this.dataGridView2.RowHeadersWidth = 62;
-            this.dataGridView2.RowTemplate.Height = 23;
-            this.dataGridView2.Size = new System.Drawing.Size(470, 263);
-            this.dataGridView2.TabIndex = 0;
-            this.dataGridView2.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellContentClick);
-            // 
-            // panel16
-            // 
-            this.panel16.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel16.Controls.Add(this.textBox12);
-            this.panel16.Controls.Add(this.button19);
-            this.panel16.Controls.Add(this.panel17);
-            this.panel16.Location = new System.Drawing.Point(669, 50);
-            this.panel16.Name = "panel16";
-            this.panel16.Size = new System.Drawing.Size(507, 452);
-            this.panel16.TabIndex = 4;
-            this.panel16.Visible = false;
-            // 
-            // textBox12
-            // 
-            this.textBox12.BackColor = System.Drawing.SystemColors.Control;
-            this.textBox12.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.textBox12.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.textBox12.Location = new System.Drawing.Point(188, 27);
-            this.textBox12.Name = "textBox12";
-            this.textBox12.ReadOnly = true;
-            this.textBox12.Size = new System.Drawing.Size(147, 28);
-            this.textBox12.TabIndex = 1;
-            this.textBox12.Text = "품목 정보";
-            this.textBox12.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // button19
-            // 
-            this.button19.BackColor = System.Drawing.Color.LimeGreen;
-            this.button19.FlatAppearance.BorderSize = 0;
-            this.button19.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button19.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button19.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button19.Location = new System.Drawing.Point(400, 407);
-            this.button19.Name = "button19";
-            this.button19.Size = new System.Drawing.Size(89, 34);
-            this.button19.TabIndex = 1;
-            this.button19.Text = "수 정";
-            this.button19.UseVisualStyleBackColor = false;
-            this.button19.Click += new System.EventHandler(this.button19_Click);
-            // 
-            // panel17
-            // 
-            this.panel17.AutoScroll = true;
-            this.panel17.BackColor = System.Drawing.SystemColors.ControlLightLight;
-            this.panel17.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
-            this.panel17.Controls.Add(this.dataGridView6);
-            this.panel17.Location = new System.Drawing.Point(14, 75);
-            this.panel17.Name = "panel17";
-            this.panel17.Size = new System.Drawing.Size(480, 331);
-            this.panel17.TabIndex = 0;
-            // 
-            // dataGridView6
-            // 
-            this.dataGridView6.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView6.Location = new System.Drawing.Point(0, 3);
-            this.dataGridView6.Name = "dataGridView6";
-            this.dataGridView6.RowHeadersWidth = 62;
-            this.dataGridView6.RowTemplate.Height = 23;
-            this.dataGridView6.Size = new System.Drawing.Size(470, 263);
-            this.dataGridView6.TabIndex = 0;
-            this.dataGridView6.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView6_CellContentClick);
             // 
             // panel73
             // 
@@ -3927,7 +2033,6 @@
             this.panel14.BackColor = System.Drawing.SystemColors.ControlLightLight;
             this.panel14.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
             this.panel14.Controls.Add(this.button16);
-            this.panel14.Controls.Add(this.button17);
             this.panel14.Controls.Add(this.button18);
             this.panel14.Controls.Add(this.textBox11);
             this.panel14.Controls.Add(this.panel15);
@@ -3950,21 +2055,6 @@
             this.button16.Text = "확 인";
             this.button16.UseVisualStyleBackColor = false;
             this.button16.Click += new System.EventHandler(this.button16_Click);
-            // 
-            // button17
-            // 
-            this.button17.BackColor = System.Drawing.Color.LimeGreen;
-            this.button17.FlatAppearance.BorderSize = 0;
-            this.button17.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
-            this.button17.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button17.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
-            this.button17.Location = new System.Drawing.Point(923, 357);
-            this.button17.Name = "button17";
-            this.button17.Size = new System.Drawing.Size(75, 23);
-            this.button17.TabIndex = 4;
-            this.button17.Text = "수 정";
-            this.button17.UseVisualStyleBackColor = false;
-            this.button17.Click += new System.EventHandler(this.button17_Click);
             // 
             // button18
             // 
@@ -4283,11 +2373,1851 @@
             this.dataGridView3.TabIndex = 0;
             this.dataGridView3.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView3_CellContentClick);
             // 
+            // panel26
+            // 
+            this.panel26.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel26.Controls.Add(this.textBox26);
+            this.panel26.Controls.Add(this.button29);
+            this.panel26.Controls.Add(this.panel27);
+            this.panel26.Location = new System.Drawing.Point(669, 52);
+            this.panel26.Name = "panel26";
+            this.panel26.Size = new System.Drawing.Size(507, 452);
+            this.panel26.TabIndex = 4;
+            this.panel26.Visible = false;
+            // 
+            // textBox26
+            // 
+            this.textBox26.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox26.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox26.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox26.Location = new System.Drawing.Point(188, 27);
+            this.textBox26.Name = "textBox26";
+            this.textBox26.ReadOnly = true;
+            this.textBox26.Size = new System.Drawing.Size(147, 28);
+            this.textBox26.TabIndex = 1;
+            this.textBox26.Text = "가맹점 정보";
+            this.textBox26.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button29
+            // 
+            this.button29.BackColor = System.Drawing.Color.LimeGreen;
+            this.button29.FlatAppearance.BorderSize = 0;
+            this.button29.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button29.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button29.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button29.Location = new System.Drawing.Point(400, 407);
+            this.button29.Name = "button29";
+            this.button29.Size = new System.Drawing.Size(89, 34);
+            this.button29.TabIndex = 1;
+            this.button29.Text = "수 정";
+            this.button29.UseVisualStyleBackColor = false;
+            // 
+            // panel27
+            // 
+            this.panel27.AutoScroll = true;
+            this.panel27.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel27.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel27.Controls.Add(this.dataGridView8);
+            this.panel27.Location = new System.Drawing.Point(14, 75);
+            this.panel27.Name = "panel27";
+            this.panel27.Size = new System.Drawing.Size(480, 331);
+            this.panel27.TabIndex = 0;
+            // 
+            // dataGridView8
+            // 
+            this.dataGridView8.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView8.Location = new System.Drawing.Point(0, 3);
+            this.dataGridView8.Name = "dataGridView8";
+            this.dataGridView8.RowHeadersWidth = 62;
+            this.dataGridView8.RowTemplate.Height = 23;
+            this.dataGridView8.Size = new System.Drawing.Size(470, 263);
+            this.dataGridView8.TabIndex = 0;
+            // 
+            // panel46
+            // 
+            this.panel46.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel46.Controls.Add(this.textBox73);
+            this.panel46.Controls.Add(this.button40);
+            this.panel46.Controls.Add(this.panel47);
+            this.panel46.Location = new System.Drawing.Point(669, 52);
+            this.panel46.Name = "panel46";
+            this.panel46.Size = new System.Drawing.Size(507, 452);
+            this.panel46.TabIndex = 5;
+            this.panel46.Visible = false;
+            // 
+            // textBox73
+            // 
+            this.textBox73.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox73.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox73.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox73.Location = new System.Drawing.Point(188, 27);
+            this.textBox73.Name = "textBox73";
+            this.textBox73.ReadOnly = true;
+            this.textBox73.Size = new System.Drawing.Size(147, 28);
+            this.textBox73.TabIndex = 1;
+            this.textBox73.Text = "가맹점 정보";
+            this.textBox73.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button40
+            // 
+            this.button40.BackColor = System.Drawing.Color.LimeGreen;
+            this.button40.FlatAppearance.BorderSize = 0;
+            this.button40.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button40.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button40.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button40.Location = new System.Drawing.Point(400, 407);
+            this.button40.Name = "button40";
+            this.button40.Size = new System.Drawing.Size(89, 34);
+            this.button40.TabIndex = 1;
+            this.button40.Text = "수 정";
+            this.button40.UseVisualStyleBackColor = false;
+            // 
+            // panel47
+            // 
+            this.panel47.AutoScroll = true;
+            this.panel47.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel47.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel47.Controls.Add(this.dataGridView14);
+            this.panel47.Location = new System.Drawing.Point(14, 75);
+            this.panel47.Name = "panel47";
+            this.panel47.Size = new System.Drawing.Size(480, 331);
+            this.panel47.TabIndex = 0;
+            // 
+            // dataGridView14
+            // 
+            this.dataGridView14.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView14.Location = new System.Drawing.Point(0, 3);
+            this.dataGridView14.Name = "dataGridView14";
+            this.dataGridView14.RowHeadersWidth = 62;
+            this.dataGridView14.RowTemplate.Height = 23;
+            this.dataGridView14.Size = new System.Drawing.Size(470, 263);
+            this.dataGridView14.TabIndex = 0;
+            // 
+            // panel48
+            // 
+            this.panel48.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel48.Controls.Add(this.textBox74);
+            this.panel48.Controls.Add(this.textBox75);
+            this.panel48.Controls.Add(this.textBox76);
+            this.panel48.Controls.Add(this.button41);
+            this.panel48.Controls.Add(this.panel49);
+            this.panel48.Location = new System.Drawing.Point(669, 52);
+            this.panel48.Name = "panel48";
+            this.panel48.Size = new System.Drawing.Size(507, 452);
+            this.panel48.TabIndex = 7;
+            this.panel48.Visible = false;
+            // 
+            // textBox74
+            // 
+            this.textBox74.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox74.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox74.Location = new System.Drawing.Point(16, 413);
+            this.textBox74.Name = "textBox74";
+            this.textBox74.ReadOnly = true;
+            this.textBox74.Size = new System.Drawing.Size(333, 28);
+            this.textBox74.TabIndex = 3;
+            // 
+            // textBox75
+            // 
+            this.textBox75.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox75.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox75.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox75.Location = new System.Drawing.Point(125, 20);
+            this.textBox75.Name = "textBox75";
+            this.textBox75.ReadOnly = true;
+            this.textBox75.Size = new System.Drawing.Size(101, 28);
+            this.textBox75.TabIndex = 2;
+            this.textBox75.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
+            // textBox76
+            // 
+            this.textBox76.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox76.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox76.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox76.Location = new System.Drawing.Point(222, 24);
+            this.textBox76.Name = "textBox76";
+            this.textBox76.ReadOnly = true;
+            this.textBox76.Size = new System.Drawing.Size(147, 28);
+            this.textBox76.TabIndex = 1;
+            this.textBox76.Text = "품목 내역";
+            this.textBox76.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button41
+            // 
+            this.button41.BackColor = System.Drawing.Color.LimeGreen;
+            this.button41.FlatAppearance.BorderSize = 0;
+            this.button41.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button41.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button41.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button41.Location = new System.Drawing.Point(400, 407);
+            this.button41.Name = "button41";
+            this.button41.Size = new System.Drawing.Size(89, 34);
+            this.button41.TabIndex = 1;
+            this.button41.Text = "수 정";
+            this.button41.UseVisualStyleBackColor = false;
+            // 
+            // panel49
+            // 
+            this.panel49.AutoScroll = true;
+            this.panel49.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel49.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel49.Controls.Add(this.dataGridView15);
+            this.panel49.Location = new System.Drawing.Point(14, 75);
+            this.panel49.Name = "panel49";
+            this.panel49.Size = new System.Drawing.Size(480, 331);
+            this.panel49.TabIndex = 0;
+            // 
+            // dataGridView15
+            // 
+            this.dataGridView15.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView15.Location = new System.Drawing.Point(0, 3);
+            this.dataGridView15.Name = "dataGridView15";
+            this.dataGridView15.RowHeadersWidth = 62;
+            this.dataGridView15.RowTemplate.Height = 23;
+            this.dataGridView15.Size = new System.Drawing.Size(470, 263);
+            this.dataGridView15.TabIndex = 0;
+            // 
+            // panel40
+            // 
+            this.panel40.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel40.Controls.Add(this.textBox69);
+            this.panel40.Controls.Add(this.textBox70);
+            this.panel40.Controls.Add(this.textBox71);
+            this.panel40.Controls.Add(this.button38);
+            this.panel40.Controls.Add(this.panel43);
+            this.panel40.Location = new System.Drawing.Point(669, 52);
+            this.panel40.Name = "panel40";
+            this.panel40.Size = new System.Drawing.Size(507, 452);
+            this.panel40.TabIndex = 6;
+            this.panel40.Visible = false;
+            // 
+            // textBox69
+            // 
+            this.textBox69.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox69.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox69.Location = new System.Drawing.Point(16, 413);
+            this.textBox69.Name = "textBox69";
+            this.textBox69.ReadOnly = true;
+            this.textBox69.Size = new System.Drawing.Size(333, 28);
+            this.textBox69.TabIndex = 3;
+            // 
+            // textBox70
+            // 
+            this.textBox70.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox70.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox70.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox70.Location = new System.Drawing.Point(125, 20);
+            this.textBox70.Name = "textBox70";
+            this.textBox70.ReadOnly = true;
+            this.textBox70.Size = new System.Drawing.Size(101, 28);
+            this.textBox70.TabIndex = 2;
+            this.textBox70.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
+            // textBox71
+            // 
+            this.textBox71.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox71.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox71.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox71.Location = new System.Drawing.Point(222, 24);
+            this.textBox71.Name = "textBox71";
+            this.textBox71.ReadOnly = true;
+            this.textBox71.Size = new System.Drawing.Size(147, 28);
+            this.textBox71.TabIndex = 1;
+            this.textBox71.Text = "품목 내역";
+            this.textBox71.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button38
+            // 
+            this.button38.BackColor = System.Drawing.Color.LimeGreen;
+            this.button38.FlatAppearance.BorderSize = 0;
+            this.button38.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button38.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button38.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button38.Location = new System.Drawing.Point(400, 407);
+            this.button38.Name = "button38";
+            this.button38.Size = new System.Drawing.Size(89, 34);
+            this.button38.TabIndex = 1;
+            this.button38.Text = "수 정";
+            this.button38.UseVisualStyleBackColor = false;
+            // 
+            // panel43
+            // 
+            this.panel43.AutoScroll = true;
+            this.panel43.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel43.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel43.Controls.Add(this.dataGridView12);
+            this.panel43.Location = new System.Drawing.Point(14, 75);
+            this.panel43.Name = "panel43";
+            this.panel43.Size = new System.Drawing.Size(480, 331);
+            this.panel43.TabIndex = 0;
+            // 
+            // dataGridView12
+            // 
+            this.dataGridView12.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView12.Location = new System.Drawing.Point(0, 3);
+            this.dataGridView12.Name = "dataGridView12";
+            this.dataGridView12.RowHeadersWidth = 62;
+            this.dataGridView12.RowTemplate.Height = 23;
+            this.dataGridView12.Size = new System.Drawing.Size(470, 263);
+            this.dataGridView12.TabIndex = 0;
+            // 
+            // panel28
+            // 
+            this.panel28.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel28.Controls.Add(this.textBox27);
+            this.panel28.Controls.Add(this.textBox28);
+            this.panel28.Controls.Add(this.textBox29);
+            this.panel28.Controls.Add(this.button30);
+            this.panel28.Controls.Add(this.panel29);
+            this.panel28.Location = new System.Drawing.Point(669, 52);
+            this.panel28.Name = "panel28";
+            this.panel28.Size = new System.Drawing.Size(507, 452);
+            this.panel28.TabIndex = 5;
+            this.panel28.Visible = false;
+            // 
+            // textBox27
+            // 
+            this.textBox27.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox27.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox27.Location = new System.Drawing.Point(16, 413);
+            this.textBox27.Name = "textBox27";
+            this.textBox27.ReadOnly = true;
+            this.textBox27.Size = new System.Drawing.Size(333, 28);
+            this.textBox27.TabIndex = 3;
+            // 
+            // textBox28
+            // 
+            this.textBox28.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox28.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox28.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox28.Location = new System.Drawing.Point(125, 20);
+            this.textBox28.Name = "textBox28";
+            this.textBox28.ReadOnly = true;
+            this.textBox28.Size = new System.Drawing.Size(101, 28);
+            this.textBox28.TabIndex = 2;
+            this.textBox28.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            // 
+            // textBox29
+            // 
+            this.textBox29.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox29.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox29.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox29.Location = new System.Drawing.Point(222, 24);
+            this.textBox29.Name = "textBox29";
+            this.textBox29.ReadOnly = true;
+            this.textBox29.Size = new System.Drawing.Size(147, 28);
+            this.textBox29.TabIndex = 1;
+            this.textBox29.Text = "품목 내역";
+            this.textBox29.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button30
+            // 
+            this.button30.BackColor = System.Drawing.Color.LimeGreen;
+            this.button30.FlatAppearance.BorderSize = 0;
+            this.button30.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button30.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button30.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button30.Location = new System.Drawing.Point(400, 407);
+            this.button30.Name = "button30";
+            this.button30.Size = new System.Drawing.Size(89, 34);
+            this.button30.TabIndex = 1;
+            this.button30.Text = "수 정";
+            this.button30.UseVisualStyleBackColor = false;
+            // 
+            // panel29
+            // 
+            this.panel29.AutoScroll = true;
+            this.panel29.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel29.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel29.Controls.Add(this.dataGridView9);
+            this.panel29.Location = new System.Drawing.Point(14, 75);
+            this.panel29.Name = "panel29";
+            this.panel29.Size = new System.Drawing.Size(480, 331);
+            this.panel29.TabIndex = 0;
+            // 
+            // dataGridView9
+            // 
+            this.dataGridView9.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView9.Location = new System.Drawing.Point(0, 3);
+            this.dataGridView9.Name = "dataGridView9";
+            this.dataGridView9.RowHeadersWidth = 62;
+            this.dataGridView9.RowTemplate.Height = 23;
+            this.dataGridView9.Size = new System.Drawing.Size(470, 263);
+            this.dataGridView9.TabIndex = 0;
+            // 
+            // panel44
+            // 
+            this.panel44.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel44.Controls.Add(this.textBox67);
+            this.panel44.Controls.Add(this.textBox72);
+            this.panel44.Controls.Add(this.button39);
+            this.panel44.Controls.Add(this.panel45);
+            this.panel44.Location = new System.Drawing.Point(669, 52);
+            this.panel44.Name = "panel44";
+            this.panel44.Size = new System.Drawing.Size(507, 452);
+            this.panel44.TabIndex = 6;
+            this.panel44.Visible = false;
+            // 
+            // textBox67
+            // 
+            this.textBox67.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox67.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox67.Location = new System.Drawing.Point(16, 413);
+            this.textBox67.Name = "textBox67";
+            this.textBox67.ReadOnly = true;
+            this.textBox67.Size = new System.Drawing.Size(333, 28);
+            this.textBox67.TabIndex = 3;
+            // 
+            // textBox72
+            // 
+            this.textBox72.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox72.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox72.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox72.Location = new System.Drawing.Point(189, 22);
+            this.textBox72.Name = "textBox72";
+            this.textBox72.ReadOnly = true;
+            this.textBox72.Size = new System.Drawing.Size(147, 28);
+            this.textBox72.TabIndex = 1;
+            this.textBox72.Text = "품목 내역";
+            this.textBox72.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button39
+            // 
+            this.button39.BackColor = System.Drawing.Color.LimeGreen;
+            this.button39.FlatAppearance.BorderSize = 0;
+            this.button39.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button39.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button39.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button39.Location = new System.Drawing.Point(400, 407);
+            this.button39.Name = "button39";
+            this.button39.Size = new System.Drawing.Size(89, 34);
+            this.button39.TabIndex = 1;
+            this.button39.Text = "수 정";
+            this.button39.UseVisualStyleBackColor = false;
+            // 
+            // panel45
+            // 
+            this.panel45.AutoScroll = true;
+            this.panel45.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel45.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel45.Controls.Add(this.dataGridView13);
+            this.panel45.Location = new System.Drawing.Point(14, 75);
+            this.panel45.Name = "panel45";
+            this.panel45.Size = new System.Drawing.Size(480, 331);
+            this.panel45.TabIndex = 0;
+            // 
+            // dataGridView13
+            // 
+            this.dataGridView13.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView13.Location = new System.Drawing.Point(0, 3);
+            this.dataGridView13.Name = "dataGridView13";
+            this.dataGridView13.RowHeadersWidth = 62;
+            this.dataGridView13.RowTemplate.Height = 23;
+            this.dataGridView13.Size = new System.Drawing.Size(470, 263);
+            this.dataGridView13.TabIndex = 0;
+            // 
+            // panel11
+            // 
+            this.panel11.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel11.Controls.Add(this.textBox9);
+            this.panel11.Controls.Add(this.textBox8);
+            this.panel11.Controls.Add(this.textBox7);
+            this.panel11.Controls.Add(this.button14);
+            this.panel11.Controls.Add(this.panel12);
+            this.panel11.Location = new System.Drawing.Point(669, 52);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(507, 452);
+            this.panel11.TabIndex = 4;
+            this.panel11.Visible = false;
+            // 
+            // textBox9
+            // 
+            this.textBox9.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox9.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox9.Location = new System.Drawing.Point(16, 413);
+            this.textBox9.Name = "textBox9";
+            this.textBox9.ReadOnly = true;
+            this.textBox9.Size = new System.Drawing.Size(333, 28);
+            this.textBox9.TabIndex = 3;
+            this.textBox9.TextChanged += new System.EventHandler(this.textBox9_TextChanged);
+            // 
+            // textBox8
+            // 
+            this.textBox8.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox8.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox8.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox8.Location = new System.Drawing.Point(125, 20);
+            this.textBox8.Name = "textBox8";
+            this.textBox8.ReadOnly = true;
+            this.textBox8.Size = new System.Drawing.Size(101, 28);
+            this.textBox8.TabIndex = 2;
+            this.textBox8.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.textBox8.TextChanged += new System.EventHandler(this.textBox8_TextChanged);
+            // 
+            // textBox7
+            // 
+            this.textBox7.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox7.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox7.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox7.Location = new System.Drawing.Point(222, 24);
+            this.textBox7.Name = "textBox7";
+            this.textBox7.ReadOnly = true;
+            this.textBox7.Size = new System.Drawing.Size(147, 28);
+            this.textBox7.TabIndex = 1;
+            this.textBox7.Text = "품목 내역";
+            this.textBox7.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button14
+            // 
+            this.button14.BackColor = System.Drawing.Color.LimeGreen;
+            this.button14.FlatAppearance.BorderSize = 0;
+            this.button14.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button14.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button14.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button14.Location = new System.Drawing.Point(400, 407);
+            this.button14.Name = "button14";
+            this.button14.Size = new System.Drawing.Size(89, 34);
+            this.button14.TabIndex = 1;
+            this.button14.Text = "수 정";
+            this.button14.UseVisualStyleBackColor = false;
+            this.button14.Click += new System.EventHandler(this.button14_Click);
+            // 
+            // panel12
+            // 
+            this.panel12.AutoScroll = true;
+            this.panel12.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel12.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel12.Controls.Add(this.dataGridView4);
+            this.panel12.Location = new System.Drawing.Point(14, 75);
+            this.panel12.Name = "panel12";
+            this.panel12.Size = new System.Drawing.Size(480, 331);
+            this.panel12.TabIndex = 0;
+            // 
+            // dataGridView4
+            // 
+            this.dataGridView4.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView4.Location = new System.Drawing.Point(0, 3);
+            this.dataGridView4.Name = "dataGridView4";
+            this.dataGridView4.RowHeadersWidth = 62;
+            this.dataGridView4.RowTemplate.Height = 23;
+            this.dataGridView4.Size = new System.Drawing.Size(470, 263);
+            this.dataGridView4.TabIndex = 0;
+            this.dataGridView4.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView4_CellContentClick);
+            // 
+            // panel6
+            // 
+            this.panel6.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel6.Controls.Add(this.textBox4);
+            this.panel6.Controls.Add(this.button9);
+            this.panel6.Controls.Add(this.panel7);
+            this.panel6.Location = new System.Drawing.Point(669, 52);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(507, 452);
+            this.panel6.TabIndex = 3;
+            this.panel6.Visible = false;
+            this.panel6.Paint += new System.Windows.Forms.PaintEventHandler(this.panel6_Paint);
+            // 
+            // textBox4
+            // 
+            this.textBox4.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox4.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox4.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox4.Location = new System.Drawing.Point(188, 27);
+            this.textBox4.Name = "textBox4";
+            this.textBox4.ReadOnly = true;
+            this.textBox4.Size = new System.Drawing.Size(147, 28);
+            this.textBox4.TabIndex = 1;
+            this.textBox4.Text = "가맹점 정보";
+            this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button9
+            // 
+            this.button9.BackColor = System.Drawing.Color.LimeGreen;
+            this.button9.FlatAppearance.BorderSize = 0;
+            this.button9.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button9.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button9.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button9.Location = new System.Drawing.Point(400, 407);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(89, 34);
+            this.button9.TabIndex = 1;
+            this.button9.Text = "수 정";
+            this.button9.UseVisualStyleBackColor = false;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
+            // 
+            // panel7
+            // 
+            this.panel7.AutoScroll = true;
+            this.panel7.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel7.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel7.Controls.Add(this.dataGridView2);
+            this.panel7.Location = new System.Drawing.Point(14, 75);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(480, 331);
+            this.panel7.TabIndex = 0;
+            // 
+            // dataGridView2
+            // 
+            this.dataGridView2.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView2.Location = new System.Drawing.Point(0, 3);
+            this.dataGridView2.Name = "dataGridView2";
+            this.dataGridView2.RowHeadersWidth = 62;
+            this.dataGridView2.RowTemplate.Height = 23;
+            this.dataGridView2.Size = new System.Drawing.Size(470, 263);
+            this.dataGridView2.TabIndex = 0;
+            this.dataGridView2.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView2_CellContentClick);
+            // 
+            // panel16
+            // 
+            this.panel16.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel16.Controls.Add(this.textBox12);
+            this.panel16.Controls.Add(this.button19);
+            this.panel16.Controls.Add(this.panel17);
+            this.panel16.Location = new System.Drawing.Point(669, 50);
+            this.panel16.Name = "panel16";
+            this.panel16.Size = new System.Drawing.Size(507, 452);
+            this.panel16.TabIndex = 4;
+            this.panel16.Visible = false;
+            // 
+            // textBox12
+            // 
+            this.textBox12.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox12.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox12.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox12.Location = new System.Drawing.Point(188, 27);
+            this.textBox12.Name = "textBox12";
+            this.textBox12.ReadOnly = true;
+            this.textBox12.Size = new System.Drawing.Size(147, 28);
+            this.textBox12.TabIndex = 1;
+            this.textBox12.Text = "품목 정보";
+            this.textBox12.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button19
+            // 
+            this.button19.BackColor = System.Drawing.Color.LimeGreen;
+            this.button19.FlatAppearance.BorderSize = 0;
+            this.button19.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button19.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button19.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button19.Location = new System.Drawing.Point(400, 407);
+            this.button19.Name = "button19";
+            this.button19.Size = new System.Drawing.Size(89, 34);
+            this.button19.TabIndex = 1;
+            this.button19.Text = "수 정";
+            this.button19.UseVisualStyleBackColor = false;
+            this.button19.Click += new System.EventHandler(this.button19_Click);
+            // 
+            // panel17
+            // 
+            this.panel17.AutoScroll = true;
+            this.panel17.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel17.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel17.Controls.Add(this.dataGridView6);
+            this.panel17.Location = new System.Drawing.Point(14, 75);
+            this.panel17.Name = "panel17";
+            this.panel17.Size = new System.Drawing.Size(480, 331);
+            this.panel17.TabIndex = 0;
+            // 
+            // dataGridView6
+            // 
+            this.dataGridView6.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView6.Location = new System.Drawing.Point(0, 3);
+            this.dataGridView6.Name = "dataGridView6";
+            this.dataGridView6.RowHeadersWidth = 62;
+            this.dataGridView6.RowTemplate.Height = 23;
+            this.dataGridView6.Size = new System.Drawing.Size(470, 263);
+            this.dataGridView6.TabIndex = 0;
+            this.dataGridView6.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView6_CellContentClick);
+            // 
+            // panel30
+            // 
+            this.panel30.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel30.Controls.Add(this.button31);
+            this.panel30.Controls.Add(this.panel31);
+            this.panel30.Location = new System.Drawing.Point(669, 52);
+            this.panel30.Name = "panel30";
+            this.panel30.Size = new System.Drawing.Size(507, 452);
+            this.panel30.TabIndex = 5;
+            this.panel30.Visible = false;
+            // 
+            // button31
+            // 
+            this.button31.BackColor = System.Drawing.Color.LimeGreen;
+            this.button31.FlatAppearance.BorderSize = 0;
+            this.button31.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button31.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button31.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button31.Location = new System.Drawing.Point(400, 407);
+            this.button31.Name = "button31";
+            this.button31.Size = new System.Drawing.Size(89, 34);
+            this.button31.TabIndex = 1;
+            this.button31.Text = "등 록";
+            this.button31.UseVisualStyleBackColor = false;
+            this.button31.Click += new System.EventHandler(this.button31_Click);
+            // 
+            // panel31
+            // 
+            this.panel31.AutoScroll = true;
+            this.panel31.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel31.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel31.Controls.Add(this.textBox48);
+            this.panel31.Controls.Add(this.textBox47);
+            this.panel31.Controls.Add(this.textBox46);
+            this.panel31.Controls.Add(this.textBox45);
+            this.panel31.Controls.Add(this.textBox44);
+            this.panel31.Controls.Add(this.panel32);
+            this.panel31.Controls.Add(this.textBox42);
+            this.panel31.Controls.Add(this.textBox41);
+            this.panel31.Controls.Add(this.textBox40);
+            this.panel31.Controls.Add(this.textBox39);
+            this.panel31.Controls.Add(this.textBox38);
+            this.panel31.Controls.Add(this.textBox37);
+            this.panel31.Controls.Add(this.textBox36);
+            this.panel31.Controls.Add(this.textBox35);
+            this.panel31.Controls.Add(this.textBox34);
+            this.panel31.Controls.Add(this.textBox33);
+            this.panel31.Controls.Add(this.textBox32);
+            this.panel31.Controls.Add(this.textBox31);
+            this.panel31.Controls.Add(this.textBox30);
+            this.panel31.Location = new System.Drawing.Point(14, 10);
+            this.panel31.Name = "panel31";
+            this.panel31.Size = new System.Drawing.Size(480, 396);
+            this.panel31.TabIndex = 0;
+            // 
+            // textBox48
+            // 
+            this.textBox48.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox48.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox48.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox48.Location = new System.Drawing.Point(412, 362);
+            this.textBox48.Name = "textBox48";
+            this.textBox48.ReadOnly = true;
+            this.textBox48.Size = new System.Drawing.Size(39, 19);
+            this.textBox48.TabIndex = 20;
+            this.textBox48.Text = "(인)";
+            this.textBox48.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox47
+            // 
+            this.textBox47.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox47.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox47.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox47.Location = new System.Drawing.Point(337, 361);
+            this.textBox47.Name = "textBox47";
+            this.textBox47.ReadOnly = true;
+            this.textBox47.Size = new System.Drawing.Size(75, 19);
+            this.textBox47.TabIndex = 19;
+            this.textBox47.TextChanged += new System.EventHandler(this.textBox47_TextChanged);
+            // 
+            // textBox46
+            // 
+            this.textBox46.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox46.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox46.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox46.Location = new System.Drawing.Point(266, 363);
+            this.textBox46.Name = "textBox46";
+            this.textBox46.ReadOnly = true;
+            this.textBox46.Size = new System.Drawing.Size(65, 18);
+            this.textBox46.TabIndex = 18;
+            this.textBox46.Text = "담당자 : ";
+            this.textBox46.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox45
+            // 
+            this.textBox45.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox45.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox45.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox45.Location = new System.Drawing.Point(341, 339);
+            this.textBox45.Name = "textBox45";
+            this.textBox45.ReadOnly = true;
+            this.textBox45.Size = new System.Drawing.Size(100, 19);
+            this.textBox45.TabIndex = 17;
+            this.textBox45.TextChanged += new System.EventHandler(this.textBox45_TextChanged);
+            // 
+            // textBox44
+            // 
+            this.textBox44.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox44.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox44.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox44.Location = new System.Drawing.Point(239, 341);
+            this.textBox44.Name = "textBox44";
+            this.textBox44.ReadOnly = true;
+            this.textBox44.Size = new System.Drawing.Size(100, 18);
+            this.textBox44.TabIndex = 16;
+            this.textBox44.Text = "발주 날짜";
+            this.textBox44.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // panel32
+            // 
+            this.panel32.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel32.Controls.Add(this.textBox43);
+            this.panel32.Location = new System.Drawing.Point(13, 158);
+            this.panel32.Name = "panel32";
+            this.panel32.Size = new System.Drawing.Size(428, 175);
+            this.panel32.TabIndex = 15;
+            // 
+            // textBox43
+            // 
+            this.textBox43.AcceptsReturn = true;
+            this.textBox43.AcceptsTab = true;
+            this.textBox43.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox43.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox43.Location = new System.Drawing.Point(23, 8);
+            this.textBox43.Multiline = true;
+            this.textBox43.Name = "textBox43";
+            this.textBox43.Size = new System.Drawing.Size(400, 151);
+            this.textBox43.TabIndex = 14;
+            this.textBox43.TextChanged += new System.EventHandler(this.textBox43_TextChanged);
+            // 
+            // textBox42
+            // 
+            this.textBox42.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox42.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox42.Location = new System.Drawing.Point(319, 117);
+            this.textBox42.Name = "textBox42";
+            this.textBox42.Size = new System.Drawing.Size(122, 25);
+            this.textBox42.TabIndex = 13;
+            this.textBox42.TextChanged += new System.EventHandler(this.textBox42_TextChanged);
+            // 
+            // textBox41
+            // 
+            this.textBox41.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox41.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox41.Location = new System.Drawing.Point(319, 92);
+            this.textBox41.Name = "textBox41";
+            this.textBox41.Size = new System.Drawing.Size(122, 25);
+            this.textBox41.TabIndex = 12;
+            this.textBox41.TextChanged += new System.EventHandler(this.textBox41_TextChanged);
+            // 
+            // textBox40
+            // 
+            this.textBox40.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox40.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox40.Location = new System.Drawing.Point(319, 67);
+            this.textBox40.Name = "textBox40";
+            this.textBox40.Size = new System.Drawing.Size(122, 25);
+            this.textBox40.TabIndex = 11;
+            this.textBox40.TextChanged += new System.EventHandler(this.textBox40_TextChanged);
+            // 
+            // textBox39
+            // 
+            this.textBox39.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox39.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox39.Location = new System.Drawing.Point(89, 117);
+            this.textBox39.Name = "textBox39";
+            this.textBox39.Size = new System.Drawing.Size(120, 25);
+            this.textBox39.TabIndex = 10;
+            this.textBox39.TextChanged += new System.EventHandler(this.textBox39_TextChanged);
+            // 
+            // textBox38
+            // 
+            this.textBox38.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox38.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox38.Location = new System.Drawing.Point(89, 92);
+            this.textBox38.Name = "textBox38";
+            this.textBox38.Size = new System.Drawing.Size(120, 25);
+            this.textBox38.TabIndex = 9;
+            this.textBox38.TextChanged += new System.EventHandler(this.textBox38_TextChanged);
+            // 
+            // textBox37
+            // 
+            this.textBox37.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox37.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox37.Location = new System.Drawing.Point(89, 67);
+            this.textBox37.Name = "textBox37";
+            this.textBox37.Size = new System.Drawing.Size(120, 25);
+            this.textBox37.TabIndex = 8;
+            this.textBox37.TextChanged += new System.EventHandler(this.textBox37_TextChanged);
+            // 
+            // textBox36
+            // 
+            this.textBox36.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox36.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox36.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox36.Location = new System.Drawing.Point(228, 116);
+            this.textBox36.Name = "textBox36";
+            this.textBox36.ReadOnly = true;
+            this.textBox36.Size = new System.Drawing.Size(91, 26);
+            this.textBox36.TabIndex = 7;
+            this.textBox36.Text = "연락처";
+            this.textBox36.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox35
+            // 
+            this.textBox35.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox35.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox35.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox35.Location = new System.Drawing.Point(228, 92);
+            this.textBox35.Name = "textBox35";
+            this.textBox35.ReadOnly = true;
+            this.textBox35.Size = new System.Drawing.Size(91, 26);
+            this.textBox35.TabIndex = 6;
+            this.textBox35.Text = "신청가맹점";
+            this.textBox35.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox34
+            // 
+            this.textBox34.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox34.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox34.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox34.Location = new System.Drawing.Point(228, 67);
+            this.textBox34.Name = "textBox34";
+            this.textBox34.ReadOnly = true;
+            this.textBox34.Size = new System.Drawing.Size(91, 26);
+            this.textBox34.TabIndex = 5;
+            this.textBox34.Text = "품목 번호";
+            this.textBox34.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox33
+            // 
+            this.textBox33.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox33.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox33.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox33.Location = new System.Drawing.Point(13, 117);
+            this.textBox33.Name = "textBox33";
+            this.textBox33.ReadOnly = true;
+            this.textBox33.Size = new System.Drawing.Size(76, 26);
+            this.textBox33.TabIndex = 4;
+            this.textBox33.Text = "거래회사";
+            this.textBox33.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox32
+            // 
+            this.textBox32.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox32.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox32.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox32.Location = new System.Drawing.Point(13, 92);
+            this.textBox32.Name = "textBox32";
+            this.textBox32.ReadOnly = true;
+            this.textBox32.Size = new System.Drawing.Size(76, 26);
+            this.textBox32.TabIndex = 3;
+            this.textBox32.Text = "담당자";
+            this.textBox32.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox31
+            // 
+            this.textBox31.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox31.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox31.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox31.Location = new System.Drawing.Point(13, 67);
+            this.textBox31.Name = "textBox31";
+            this.textBox31.ReadOnly = true;
+            this.textBox31.Size = new System.Drawing.Size(76, 26);
+            this.textBox31.TabIndex = 2;
+            this.textBox31.Text = "품목 명";
+            this.textBox31.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox30
+            // 
+            this.textBox30.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox30.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox30.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox30.Location = new System.Drawing.Point(155, 9);
+            this.textBox30.Name = "textBox30";
+            this.textBox30.ReadOnly = true;
+            this.textBox30.Size = new System.Drawing.Size(147, 28);
+            this.textBox30.TabIndex = 1;
+            this.textBox30.Text = "발주 등록";
+            this.textBox30.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // panel41
+            // 
+            this.panel41.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel41.Controls.Add(this.textBox66);
+            this.panel41.Controls.Add(this.textBox68);
+            this.panel41.Controls.Add(this.button37);
+            this.panel41.Controls.Add(this.panel42);
+            this.panel41.Location = new System.Drawing.Point(669, 52);
+            this.panel41.Name = "panel41";
+            this.panel41.Size = new System.Drawing.Size(507, 452);
+            this.panel41.TabIndex = 5;
+            this.panel41.Visible = false;
+            // 
+            // textBox66
+            // 
+            this.textBox66.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox66.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox66.Location = new System.Drawing.Point(16, 413);
+            this.textBox66.Name = "textBox66";
+            this.textBox66.ReadOnly = true;
+            this.textBox66.Size = new System.Drawing.Size(333, 28);
+            this.textBox66.TabIndex = 3;
+            // 
+            // textBox68
+            // 
+            this.textBox68.BackColor = System.Drawing.SystemColors.Control;
+            this.textBox68.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox68.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox68.Location = new System.Drawing.Point(189, 22);
+            this.textBox68.Name = "textBox68";
+            this.textBox68.ReadOnly = true;
+            this.textBox68.Size = new System.Drawing.Size(147, 28);
+            this.textBox68.TabIndex = 1;
+            this.textBox68.Text = "품목 내역";
+            this.textBox68.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // button37
+            // 
+            this.button37.BackColor = System.Drawing.Color.LimeGreen;
+            this.button37.FlatAppearance.BorderSize = 0;
+            this.button37.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button37.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button37.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button37.Location = new System.Drawing.Point(400, 407);
+            this.button37.Name = "button37";
+            this.button37.Size = new System.Drawing.Size(89, 34);
+            this.button37.TabIndex = 1;
+            this.button37.Text = "수 정";
+            this.button37.UseVisualStyleBackColor = false;
+            // 
+            // panel42
+            // 
+            this.panel42.AutoScroll = true;
+            this.panel42.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel42.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel42.Controls.Add(this.dataGridView11);
+            this.panel42.Location = new System.Drawing.Point(14, 75);
+            this.panel42.Name = "panel42";
+            this.panel42.Size = new System.Drawing.Size(480, 331);
+            this.panel42.TabIndex = 0;
+            // 
+            // dataGridView11
+            // 
+            this.dataGridView11.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.dataGridView11.Location = new System.Drawing.Point(0, 3);
+            this.dataGridView11.Name = "dataGridView11";
+            this.dataGridView11.RowHeadersWidth = 62;
+            this.dataGridView11.RowTemplate.Height = 23;
+            this.dataGridView11.Size = new System.Drawing.Size(470, 263);
+            this.dataGridView11.TabIndex = 0;
+            // 
+            // panel50
+            // 
+            this.panel50.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel50.Controls.Add(this.button42);
+            this.panel50.Controls.Add(this.panel51);
+            this.panel50.Location = new System.Drawing.Point(669, 52);
+            this.panel50.Name = "panel50";
+            this.panel50.Size = new System.Drawing.Size(507, 452);
+            this.panel50.TabIndex = 6;
+            this.panel50.Visible = false;
+            // 
+            // button42
+            // 
+            this.button42.BackColor = System.Drawing.Color.LimeGreen;
+            this.button42.FlatAppearance.BorderSize = 0;
+            this.button42.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button42.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button42.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button42.Location = new System.Drawing.Point(400, 407);
+            this.button42.Name = "button42";
+            this.button42.Size = new System.Drawing.Size(89, 34);
+            this.button42.TabIndex = 1;
+            this.button42.Text = "등 록";
+            this.button42.UseVisualStyleBackColor = false;
+            this.button42.Click += new System.EventHandler(this.button42_Click);
+            // 
+            // panel51
+            // 
+            this.panel51.AutoScroll = true;
+            this.panel51.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel51.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel51.Controls.Add(this.textBox77);
+            this.panel51.Controls.Add(this.textBox78);
+            this.panel51.Controls.Add(this.textBox79);
+            this.panel51.Controls.Add(this.textBox80);
+            this.panel51.Controls.Add(this.textBox81);
+            this.panel51.Controls.Add(this.panel52);
+            this.panel51.Controls.Add(this.textBox83);
+            this.panel51.Controls.Add(this.textBox84);
+            this.panel51.Controls.Add(this.textBox85);
+            this.panel51.Controls.Add(this.textBox86);
+            this.panel51.Controls.Add(this.textBox87);
+            this.panel51.Controls.Add(this.textBox88);
+            this.panel51.Controls.Add(this.textBox89);
+            this.panel51.Controls.Add(this.textBox90);
+            this.panel51.Controls.Add(this.textBox91);
+            this.panel51.Controls.Add(this.textBox92);
+            this.panel51.Controls.Add(this.textBox93);
+            this.panel51.Controls.Add(this.textBox94);
+            this.panel51.Controls.Add(this.textBox95);
+            this.panel51.Location = new System.Drawing.Point(14, 10);
+            this.panel51.Name = "panel51";
+            this.panel51.Size = new System.Drawing.Size(480, 396);
+            this.panel51.TabIndex = 0;
+            // 
+            // textBox77
+            // 
+            this.textBox77.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox77.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox77.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox77.Location = new System.Drawing.Point(412, 362);
+            this.textBox77.Name = "textBox77";
+            this.textBox77.ReadOnly = true;
+            this.textBox77.Size = new System.Drawing.Size(39, 19);
+            this.textBox77.TabIndex = 20;
+            this.textBox77.Text = "(인)";
+            this.textBox77.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox78
+            // 
+            this.textBox78.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox78.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox78.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox78.Location = new System.Drawing.Point(337, 361);
+            this.textBox78.Name = "textBox78";
+            this.textBox78.ReadOnly = true;
+            this.textBox78.Size = new System.Drawing.Size(75, 19);
+            this.textBox78.TabIndex = 19;
+            this.textBox78.TextChanged += new System.EventHandler(this.textBox78_TextChanged);
+            // 
+            // textBox79
+            // 
+            this.textBox79.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox79.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox79.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox79.Location = new System.Drawing.Point(266, 363);
+            this.textBox79.Name = "textBox79";
+            this.textBox79.ReadOnly = true;
+            this.textBox79.Size = new System.Drawing.Size(65, 18);
+            this.textBox79.TabIndex = 18;
+            this.textBox79.Text = "담당자 : ";
+            this.textBox79.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox80
+            // 
+            this.textBox80.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox80.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox80.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox80.Location = new System.Drawing.Point(341, 339);
+            this.textBox80.Name = "textBox80";
+            this.textBox80.ReadOnly = true;
+            this.textBox80.Size = new System.Drawing.Size(100, 19);
+            this.textBox80.TabIndex = 17;
+            this.textBox80.TextChanged += new System.EventHandler(this.textBox80_TextChanged);
+            // 
+            // textBox81
+            // 
+            this.textBox81.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox81.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox81.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox81.Location = new System.Drawing.Point(239, 341);
+            this.textBox81.Name = "textBox81";
+            this.textBox81.ReadOnly = true;
+            this.textBox81.Size = new System.Drawing.Size(100, 18);
+            this.textBox81.TabIndex = 16;
+            this.textBox81.Text = "발주 날짜";
+            this.textBox81.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // panel52
+            // 
+            this.panel52.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel52.Controls.Add(this.textBox82);
+            this.panel52.Location = new System.Drawing.Point(13, 158);
+            this.panel52.Name = "panel52";
+            this.panel52.Size = new System.Drawing.Size(428, 175);
+            this.panel52.TabIndex = 15;
+            // 
+            // textBox82
+            // 
+            this.textBox82.AcceptsReturn = true;
+            this.textBox82.AcceptsTab = true;
+            this.textBox82.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox82.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox82.Location = new System.Drawing.Point(23, 8);
+            this.textBox82.Multiline = true;
+            this.textBox82.Name = "textBox82";
+            this.textBox82.Size = new System.Drawing.Size(400, 151);
+            this.textBox82.TabIndex = 14;
+            // 
+            // textBox83
+            // 
+            this.textBox83.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox83.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox83.Location = new System.Drawing.Point(319, 117);
+            this.textBox83.Name = "textBox83";
+            this.textBox83.Size = new System.Drawing.Size(122, 25);
+            this.textBox83.TabIndex = 13;
+            this.textBox83.TextChanged += new System.EventHandler(this.textBox83_TextChanged);
+            // 
+            // textBox84
+            // 
+            this.textBox84.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox84.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox84.Location = new System.Drawing.Point(319, 92);
+            this.textBox84.Name = "textBox84";
+            this.textBox84.Size = new System.Drawing.Size(122, 25);
+            this.textBox84.TabIndex = 12;
+            this.textBox84.TextChanged += new System.EventHandler(this.textBox84_TextChanged);
+            // 
+            // textBox85
+            // 
+            this.textBox85.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox85.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox85.Location = new System.Drawing.Point(319, 67);
+            this.textBox85.Name = "textBox85";
+            this.textBox85.Size = new System.Drawing.Size(122, 25);
+            this.textBox85.TabIndex = 11;
+            this.textBox85.TextChanged += new System.EventHandler(this.textBox85_TextChanged);
+            // 
+            // textBox86
+            // 
+            this.textBox86.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox86.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox86.Location = new System.Drawing.Point(89, 117);
+            this.textBox86.Name = "textBox86";
+            this.textBox86.Size = new System.Drawing.Size(120, 25);
+            this.textBox86.TabIndex = 10;
+            this.textBox86.TextChanged += new System.EventHandler(this.textBox86_TextChanged);
+            // 
+            // textBox87
+            // 
+            this.textBox87.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox87.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox87.Location = new System.Drawing.Point(89, 92);
+            this.textBox87.Name = "textBox87";
+            this.textBox87.Size = new System.Drawing.Size(120, 25);
+            this.textBox87.TabIndex = 9;
+            this.textBox87.TextChanged += new System.EventHandler(this.textBox87_TextChanged);
+            // 
+            // textBox88
+            // 
+            this.textBox88.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox88.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox88.Location = new System.Drawing.Point(89, 67);
+            this.textBox88.Name = "textBox88";
+            this.textBox88.Size = new System.Drawing.Size(120, 25);
+            this.textBox88.TabIndex = 8;
+            this.textBox88.TextChanged += new System.EventHandler(this.textBox88_TextChanged);
+            // 
+            // textBox89
+            // 
+            this.textBox89.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox89.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox89.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox89.Location = new System.Drawing.Point(228, 116);
+            this.textBox89.Name = "textBox89";
+            this.textBox89.ReadOnly = true;
+            this.textBox89.Size = new System.Drawing.Size(91, 26);
+            this.textBox89.TabIndex = 7;
+            this.textBox89.Text = "연락처";
+            this.textBox89.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox90
+            // 
+            this.textBox90.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox90.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox90.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox90.Location = new System.Drawing.Point(228, 92);
+            this.textBox90.Name = "textBox90";
+            this.textBox90.ReadOnly = true;
+            this.textBox90.Size = new System.Drawing.Size(91, 26);
+            this.textBox90.TabIndex = 6;
+            this.textBox90.Text = "수 량";
+            this.textBox90.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox91
+            // 
+            this.textBox91.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox91.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox91.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox91.Location = new System.Drawing.Point(228, 67);
+            this.textBox91.Name = "textBox91";
+            this.textBox91.ReadOnly = true;
+            this.textBox91.Size = new System.Drawing.Size(91, 26);
+            this.textBox91.TabIndex = 5;
+            this.textBox91.Text = "품목명";
+            this.textBox91.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox92
+            // 
+            this.textBox92.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox92.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox92.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox92.Location = new System.Drawing.Point(13, 117);
+            this.textBox92.Name = "textBox92";
+            this.textBox92.ReadOnly = true;
+            this.textBox92.Size = new System.Drawing.Size(76, 26);
+            this.textBox92.TabIndex = 4;
+            this.textBox92.Text = "배송담당";
+            this.textBox92.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox93
+            // 
+            this.textBox93.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox93.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox93.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox93.Location = new System.Drawing.Point(13, 92);
+            this.textBox93.Name = "textBox93";
+            this.textBox93.ReadOnly = true;
+            this.textBox93.Size = new System.Drawing.Size(76, 26);
+            this.textBox93.TabIndex = 3;
+            this.textBox93.Text = "창고명";
+            this.textBox93.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox94
+            // 
+            this.textBox94.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox94.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox94.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox94.Location = new System.Drawing.Point(13, 67);
+            this.textBox94.Name = "textBox94";
+            this.textBox94.ReadOnly = true;
+            this.textBox94.Size = new System.Drawing.Size(76, 26);
+            this.textBox94.TabIndex = 2;
+            this.textBox94.Text = "품목코드";
+            this.textBox94.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox95
+            // 
+            this.textBox95.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox95.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox95.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox95.Location = new System.Drawing.Point(155, 9);
+            this.textBox95.Name = "textBox95";
+            this.textBox95.ReadOnly = true;
+            this.textBox95.Size = new System.Drawing.Size(147, 28);
+            this.textBox95.TabIndex = 1;
+            this.textBox95.Text = "입고 등록";
+            this.textBox95.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // panel53
+            // 
+            this.panel53.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel53.Controls.Add(this.button43);
+            this.panel53.Controls.Add(this.panel54);
+            this.panel53.Location = new System.Drawing.Point(669, 52);
+            this.panel53.Name = "panel53";
+            this.panel53.Size = new System.Drawing.Size(507, 452);
+            this.panel53.TabIndex = 7;
+            this.panel53.Visible = false;
+            // 
+            // button43
+            // 
+            this.button43.BackColor = System.Drawing.Color.LimeGreen;
+            this.button43.FlatAppearance.BorderSize = 0;
+            this.button43.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button43.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button43.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button43.Location = new System.Drawing.Point(400, 407);
+            this.button43.Name = "button43";
+            this.button43.Size = new System.Drawing.Size(89, 34);
+            this.button43.TabIndex = 1;
+            this.button43.Text = "등 록";
+            this.button43.UseVisualStyleBackColor = false;
+            this.button43.Click += new System.EventHandler(this.button43_Click);
+            // 
+            // panel54
+            // 
+            this.panel54.AutoScroll = true;
+            this.panel54.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel54.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel54.Controls.Add(this.textBox96);
+            this.panel54.Controls.Add(this.textBox97);
+            this.panel54.Controls.Add(this.textBox98);
+            this.panel54.Controls.Add(this.textBox99);
+            this.panel54.Controls.Add(this.textBox100);
+            this.panel54.Controls.Add(this.panel55);
+            this.panel54.Controls.Add(this.textBox102);
+            this.panel54.Controls.Add(this.textBox103);
+            this.panel54.Controls.Add(this.textBox104);
+            this.panel54.Controls.Add(this.textBox105);
+            this.panel54.Controls.Add(this.textBox106);
+            this.panel54.Controls.Add(this.textBox107);
+            this.panel54.Controls.Add(this.textBox108);
+            this.panel54.Controls.Add(this.textBox109);
+            this.panel54.Controls.Add(this.textBox110);
+            this.panel54.Controls.Add(this.textBox111);
+            this.panel54.Controls.Add(this.textBox112);
+            this.panel54.Controls.Add(this.textBox113);
+            this.panel54.Controls.Add(this.textBox114);
+            this.panel54.Location = new System.Drawing.Point(14, 10);
+            this.panel54.Name = "panel54";
+            this.panel54.Size = new System.Drawing.Size(480, 396);
+            this.panel54.TabIndex = 0;
+            // 
+            // textBox96
+            // 
+            this.textBox96.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox96.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox96.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox96.Location = new System.Drawing.Point(412, 362);
+            this.textBox96.Name = "textBox96";
+            this.textBox96.ReadOnly = true;
+            this.textBox96.Size = new System.Drawing.Size(39, 19);
+            this.textBox96.TabIndex = 20;
+            this.textBox96.Text = "(인)";
+            this.textBox96.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox97
+            // 
+            this.textBox97.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox97.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox97.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox97.Location = new System.Drawing.Point(337, 361);
+            this.textBox97.Name = "textBox97";
+            this.textBox97.ReadOnly = true;
+            this.textBox97.Size = new System.Drawing.Size(75, 19);
+            this.textBox97.TabIndex = 19;
+            // 
+            // textBox98
+            // 
+            this.textBox98.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox98.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox98.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox98.Location = new System.Drawing.Point(266, 363);
+            this.textBox98.Name = "textBox98";
+            this.textBox98.ReadOnly = true;
+            this.textBox98.Size = new System.Drawing.Size(65, 18);
+            this.textBox98.TabIndex = 18;
+            this.textBox98.Text = "담당자 : ";
+            this.textBox98.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox99
+            // 
+            this.textBox99.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox99.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox99.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox99.Location = new System.Drawing.Point(341, 339);
+            this.textBox99.Name = "textBox99";
+            this.textBox99.ReadOnly = true;
+            this.textBox99.Size = new System.Drawing.Size(100, 19);
+            this.textBox99.TabIndex = 17;
+            this.textBox99.TextChanged += new System.EventHandler(this.textBox99_TextChanged);
+            // 
+            // textBox100
+            // 
+            this.textBox100.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox100.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox100.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox100.Location = new System.Drawing.Point(239, 341);
+            this.textBox100.Name = "textBox100";
+            this.textBox100.ReadOnly = true;
+            this.textBox100.Size = new System.Drawing.Size(100, 18);
+            this.textBox100.TabIndex = 16;
+            this.textBox100.Text = "발주 날짜";
+            this.textBox100.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // panel55
+            // 
+            this.panel55.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel55.Controls.Add(this.textBox101);
+            this.panel55.Location = new System.Drawing.Point(13, 158);
+            this.panel55.Name = "panel55";
+            this.panel55.Size = new System.Drawing.Size(428, 175);
+            this.panel55.TabIndex = 15;
+            // 
+            // textBox101
+            // 
+            this.textBox101.AcceptsReturn = true;
+            this.textBox101.AcceptsTab = true;
+            this.textBox101.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox101.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox101.Location = new System.Drawing.Point(23, 8);
+            this.textBox101.Multiline = true;
+            this.textBox101.Name = "textBox101";
+            this.textBox101.Size = new System.Drawing.Size(400, 151);
+            this.textBox101.TabIndex = 14;
+            this.textBox101.TextChanged += new System.EventHandler(this.textBox101_TextChanged);
+            // 
+            // textBox102
+            // 
+            this.textBox102.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox102.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox102.Location = new System.Drawing.Point(319, 117);
+            this.textBox102.Name = "textBox102";
+            this.textBox102.Size = new System.Drawing.Size(122, 25);
+            this.textBox102.TabIndex = 13;
+            this.textBox102.TextChanged += new System.EventHandler(this.textBox102_TextChanged);
+            // 
+            // textBox103
+            // 
+            this.textBox103.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox103.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox103.Location = new System.Drawing.Point(319, 92);
+            this.textBox103.Name = "textBox103";
+            this.textBox103.Size = new System.Drawing.Size(122, 25);
+            this.textBox103.TabIndex = 12;
+            this.textBox103.TextChanged += new System.EventHandler(this.textBox103_TextChanged);
+            // 
+            // textBox104
+            // 
+            this.textBox104.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox104.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox104.Location = new System.Drawing.Point(319, 67);
+            this.textBox104.Name = "textBox104";
+            this.textBox104.Size = new System.Drawing.Size(122, 25);
+            this.textBox104.TabIndex = 11;
+            this.textBox104.TextChanged += new System.EventHandler(this.textBox104_TextChanged);
+            // 
+            // textBox105
+            // 
+            this.textBox105.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox105.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox105.Location = new System.Drawing.Point(89, 117);
+            this.textBox105.Name = "textBox105";
+            this.textBox105.Size = new System.Drawing.Size(120, 25);
+            this.textBox105.TabIndex = 10;
+            this.textBox105.TextChanged += new System.EventHandler(this.textBox105_TextChanged);
+            // 
+            // textBox106
+            // 
+            this.textBox106.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox106.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox106.Location = new System.Drawing.Point(89, 92);
+            this.textBox106.Name = "textBox106";
+            this.textBox106.Size = new System.Drawing.Size(120, 25);
+            this.textBox106.TabIndex = 9;
+            this.textBox106.TextChanged += new System.EventHandler(this.textBox106_TextChanged);
+            // 
+            // textBox107
+            // 
+            this.textBox107.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox107.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox107.Location = new System.Drawing.Point(89, 67);
+            this.textBox107.Name = "textBox107";
+            this.textBox107.Size = new System.Drawing.Size(120, 25);
+            this.textBox107.TabIndex = 8;
+            this.textBox107.TextChanged += new System.EventHandler(this.textBox107_TextChanged);
+            // 
+            // textBox108
+            // 
+            this.textBox108.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox108.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox108.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox108.Location = new System.Drawing.Point(228, 116);
+            this.textBox108.Name = "textBox108";
+            this.textBox108.ReadOnly = true;
+            this.textBox108.Size = new System.Drawing.Size(91, 26);
+            this.textBox108.TabIndex = 7;
+            this.textBox108.Text = "연락처";
+            this.textBox108.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox109
+            // 
+            this.textBox109.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox109.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox109.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox109.Location = new System.Drawing.Point(228, 92);
+            this.textBox109.Name = "textBox109";
+            this.textBox109.ReadOnly = true;
+            this.textBox109.Size = new System.Drawing.Size(91, 26);
+            this.textBox109.TabIndex = 6;
+            this.textBox109.Text = "창고명";
+            this.textBox109.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox110
+            // 
+            this.textBox110.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox110.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox110.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox110.Location = new System.Drawing.Point(228, 67);
+            this.textBox110.Name = "textBox110";
+            this.textBox110.ReadOnly = true;
+            this.textBox110.Size = new System.Drawing.Size(91, 26);
+            this.textBox110.TabIndex = 5;
+            this.textBox110.Text = "품목 번호";
+            this.textBox110.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox111
+            // 
+            this.textBox111.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox111.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox111.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox111.Location = new System.Drawing.Point(13, 117);
+            this.textBox111.Name = "textBox111";
+            this.textBox111.ReadOnly = true;
+            this.textBox111.Size = new System.Drawing.Size(76, 26);
+            this.textBox111.TabIndex = 4;
+            this.textBox111.Text = "배송담당";
+            this.textBox111.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox112
+            // 
+            this.textBox112.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox112.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox112.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox112.Location = new System.Drawing.Point(13, 92);
+            this.textBox112.Name = "textBox112";
+            this.textBox112.ReadOnly = true;
+            this.textBox112.Size = new System.Drawing.Size(76, 26);
+            this.textBox112.TabIndex = 3;
+            this.textBox112.Text = "수 량";
+            this.textBox112.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox113
+            // 
+            this.textBox113.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox113.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox113.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox113.Location = new System.Drawing.Point(13, 67);
+            this.textBox113.Name = "textBox113";
+            this.textBox113.ReadOnly = true;
+            this.textBox113.Size = new System.Drawing.Size(76, 26);
+            this.textBox113.TabIndex = 2;
+            this.textBox113.Text = "품목 명";
+            this.textBox113.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox114
+            // 
+            this.textBox114.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox114.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox114.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox114.Location = new System.Drawing.Point(155, 9);
+            this.textBox114.Name = "textBox114";
+            this.textBox114.ReadOnly = true;
+            this.textBox114.Size = new System.Drawing.Size(166, 28);
+            this.textBox114.TabIndex = 1;
+            this.textBox114.Text = "지급관리 등록";
+            this.textBox114.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // panel67
+            // 
+            this.panel67.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel67.Controls.Add(this.button55);
+            this.panel67.Controls.Add(this.panel68);
+            this.panel67.Location = new System.Drawing.Point(669, 52);
+            this.panel67.Name = "panel67";
+            this.panel67.Size = new System.Drawing.Size(507, 452);
+            this.panel67.TabIndex = 8;
+            this.panel67.Visible = false;
+            // 
+            // button55
+            // 
+            this.button55.BackColor = System.Drawing.Color.LimeGreen;
+            this.button55.FlatAppearance.BorderSize = 0;
+            this.button55.FlatAppearance.MouseDownBackColor = System.Drawing.Color.ForestGreen;
+            this.button55.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button55.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.button55.Location = new System.Drawing.Point(400, 407);
+            this.button55.Name = "button55";
+            this.button55.Size = new System.Drawing.Size(89, 34);
+            this.button55.TabIndex = 1;
+            this.button55.Text = "등 록";
+            this.button55.UseVisualStyleBackColor = false;
+            this.button55.Click += new System.EventHandler(this.button55_Click);
+            // 
+            // panel68
+            // 
+            this.panel68.AutoScroll = true;
+            this.panel68.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.panel68.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D;
+            this.panel68.Controls.Add(this.textBox129);
+            this.panel68.Controls.Add(this.textBox130);
+            this.panel68.Controls.Add(this.textBox132);
+            this.panel68.Controls.Add(this.textBox133);
+            this.panel68.Controls.Add(this.textBox134);
+            this.panel68.Controls.Add(this.panel69);
+            this.panel68.Controls.Add(this.textBox138);
+            this.panel68.Controls.Add(this.textBox139);
+            this.panel68.Controls.Add(this.textBox140);
+            this.panel68.Controls.Add(this.textBox141);
+            this.panel68.Controls.Add(this.textBox144);
+            this.panel68.Controls.Add(this.textBox145);
+            this.panel68.Controls.Add(this.textBox146);
+            this.panel68.Controls.Add(this.textBox147);
+            this.panel68.Controls.Add(this.textBox148);
+            this.panel68.Location = new System.Drawing.Point(14, 10);
+            this.panel68.Name = "panel68";
+            this.panel68.Size = new System.Drawing.Size(480, 396);
+            this.panel68.TabIndex = 0;
+            // 
+            // textBox129
+            // 
+            this.textBox129.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox129.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox129.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox129.Location = new System.Drawing.Point(412, 362);
+            this.textBox129.Name = "textBox129";
+            this.textBox129.ReadOnly = true;
+            this.textBox129.Size = new System.Drawing.Size(39, 19);
+            this.textBox129.TabIndex = 20;
+            this.textBox129.Text = "(인)";
+            this.textBox129.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox130
+            // 
+            this.textBox130.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox130.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox130.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox130.Location = new System.Drawing.Point(337, 361);
+            this.textBox130.Name = "textBox130";
+            this.textBox130.ReadOnly = true;
+            this.textBox130.Size = new System.Drawing.Size(75, 19);
+            this.textBox130.TabIndex = 19;
+            this.textBox130.TextChanged += new System.EventHandler(this.textBox130_TextChanged);
+            // 
+            // textBox132
+            // 
+            this.textBox132.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox132.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox132.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox132.Location = new System.Drawing.Point(266, 363);
+            this.textBox132.Name = "textBox132";
+            this.textBox132.ReadOnly = true;
+            this.textBox132.Size = new System.Drawing.Size(65, 18);
+            this.textBox132.TabIndex = 18;
+            this.textBox132.Text = "담당자 : ";
+            this.textBox132.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox133
+            // 
+            this.textBox133.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox133.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox133.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox133.Location = new System.Drawing.Point(341, 339);
+            this.textBox133.Name = "textBox133";
+            this.textBox133.ReadOnly = true;
+            this.textBox133.Size = new System.Drawing.Size(100, 19);
+            this.textBox133.TabIndex = 17;
+            this.textBox133.TextChanged += new System.EventHandler(this.textBox133_TextChanged);
+            // 
+            // textBox134
+            // 
+            this.textBox134.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox134.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox134.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox134.Location = new System.Drawing.Point(239, 341);
+            this.textBox134.Name = "textBox134";
+            this.textBox134.ReadOnly = true;
+            this.textBox134.Size = new System.Drawing.Size(100, 18);
+            this.textBox134.TabIndex = 16;
+            this.textBox134.Text = "발주 날짜";
+            this.textBox134.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // panel69
+            // 
+            this.panel69.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.panel69.Controls.Add(this.textBox135);
+            this.panel69.Location = new System.Drawing.Point(13, 121);
+            this.panel69.Name = "panel69";
+            this.panel69.Size = new System.Drawing.Size(428, 213);
+            this.panel69.TabIndex = 15;
+            // 
+            // textBox135
+            // 
+            this.textBox135.AcceptsReturn = true;
+            this.textBox135.AcceptsTab = true;
+            this.textBox135.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox135.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox135.Location = new System.Drawing.Point(3, 8);
+            this.textBox135.Multiline = true;
+            this.textBox135.Name = "textBox135";
+            this.textBox135.Size = new System.Drawing.Size(420, 151);
+            this.textBox135.TabIndex = 14;
+            this.textBox135.TextChanged += new System.EventHandler(this.textBox135_TextChanged);
+            // 
+            // textBox138
+            // 
+            this.textBox138.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox138.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox138.Location = new System.Drawing.Point(319, 67);
+            this.textBox138.Name = "textBox138";
+            this.textBox138.Size = new System.Drawing.Size(122, 25);
+            this.textBox138.TabIndex = 11;
+            this.textBox138.TextChanged += new System.EventHandler(this.textBox138_TextChanged);
+            // 
+            // textBox139
+            // 
+            this.textBox139.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox139.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox139.Location = new System.Drawing.Point(306, 93);
+            this.textBox139.Name = "textBox139";
+            this.textBox139.Size = new System.Drawing.Size(137, 25);
+            this.textBox139.TabIndex = 10;
+            this.textBox139.TextChanged += new System.EventHandler(this.textBox139_TextChanged);
+            // 
+            // textBox140
+            // 
+            this.textBox140.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox140.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox140.Location = new System.Drawing.Point(89, 92);
+            this.textBox140.Name = "textBox140";
+            this.textBox140.Size = new System.Drawing.Size(120, 25);
+            this.textBox140.TabIndex = 9;
+            this.textBox140.TextChanged += new System.EventHandler(this.textBox140_TextChanged);
+            // 
+            // textBox141
+            // 
+            this.textBox141.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox141.Font = new System.Drawing.Font("굴림", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox141.Location = new System.Drawing.Point(89, 67);
+            this.textBox141.Name = "textBox141";
+            this.textBox141.Size = new System.Drawing.Size(120, 25);
+            this.textBox141.TabIndex = 8;
+            this.textBox141.TextChanged += new System.EventHandler(this.textBox141_TextChanged);
+            // 
+            // textBox144
+            // 
+            this.textBox144.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox144.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox144.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox144.Location = new System.Drawing.Point(228, 67);
+            this.textBox144.Name = "textBox144";
+            this.textBox144.ReadOnly = true;
+            this.textBox144.Size = new System.Drawing.Size(91, 26);
+            this.textBox144.TabIndex = 5;
+            this.textBox144.Text = "품목 번호";
+            this.textBox144.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox145
+            // 
+            this.textBox145.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox145.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox145.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox145.Location = new System.Drawing.Point(228, 92);
+            this.textBox145.Name = "textBox145";
+            this.textBox145.ReadOnly = true;
+            this.textBox145.Size = new System.Drawing.Size(76, 26);
+            this.textBox145.TabIndex = 4;
+            this.textBox145.Text = "가맹점";
+            this.textBox145.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.textBox145.TextChanged += new System.EventHandler(this.textBox145_TextChanged);
+            // 
+            // textBox146
+            // 
+            this.textBox146.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox146.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox146.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox146.Location = new System.Drawing.Point(13, 92);
+            this.textBox146.Name = "textBox146";
+            this.textBox146.ReadOnly = true;
+            this.textBox146.Size = new System.Drawing.Size(76, 26);
+            this.textBox146.TabIndex = 3;
+            this.textBox146.Text = "담당자";
+            this.textBox146.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox147
+            // 
+            this.textBox147.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
+            this.textBox147.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.textBox147.Font = new System.Drawing.Font("굴림", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox147.Location = new System.Drawing.Point(13, 67);
+            this.textBox147.Name = "textBox147";
+            this.textBox147.ReadOnly = true;
+            this.textBox147.Size = new System.Drawing.Size(76, 26);
+            this.textBox147.TabIndex = 2;
+            this.textBox147.Text = "품목 명";
+            this.textBox147.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // textBox148
+            // 
+            this.textBox148.BackColor = System.Drawing.SystemColors.ControlLightLight;
+            this.textBox148.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.textBox148.Font = new System.Drawing.Font("굴림", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(129)));
+            this.textBox148.Location = new System.Drawing.Point(155, 9);
+            this.textBox148.Name = "textBox148";
+            this.textBox148.ReadOnly = true;
+            this.textBox148.Size = new System.Drawing.Size(166, 28);
+            this.textBox148.TabIndex = 1;
+            this.textBox148.Text = "수리 등록";
+            this.textBox148.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
             // Form4
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 12F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1363, 652);
+            this.ClientSize = new System.Drawing.Size(1355, 652);
             this.Controls.Add(this.uiPanel_Main);
             this.Name = "Form4";
             this.uiPanel_Main.ResumeLayout(false);
@@ -4296,66 +4226,6 @@
             this.panel59.ResumeLayout(false);
             this.panel18.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
-            this.panel30.ResumeLayout(false);
-            this.panel31.ResumeLayout(false);
-            this.panel31.PerformLayout();
-            this.panel32.ResumeLayout(false);
-            this.panel32.PerformLayout();
-            this.panel41.ResumeLayout(false);
-            this.panel41.PerformLayout();
-            this.panel42.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView11)).EndInit();
-            this.panel50.ResumeLayout(false);
-            this.panel51.ResumeLayout(false);
-            this.panel51.PerformLayout();
-            this.panel52.ResumeLayout(false);
-            this.panel52.PerformLayout();
-            this.panel53.ResumeLayout(false);
-            this.panel54.ResumeLayout(false);
-            this.panel54.PerformLayout();
-            this.panel55.ResumeLayout(false);
-            this.panel55.PerformLayout();
-            this.panel67.ResumeLayout(false);
-            this.panel68.ResumeLayout(false);
-            this.panel68.PerformLayout();
-            this.panel69.ResumeLayout(false);
-            this.panel69.PerformLayout();
-            this.panel26.ResumeLayout(false);
-            this.panel26.PerformLayout();
-            this.panel27.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView8)).EndInit();
-            this.panel46.ResumeLayout(false);
-            this.panel46.PerformLayout();
-            this.panel47.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView14)).EndInit();
-            this.panel48.ResumeLayout(false);
-            this.panel48.PerformLayout();
-            this.panel49.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView15)).EndInit();
-            this.panel40.ResumeLayout(false);
-            this.panel40.PerformLayout();
-            this.panel43.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView12)).EndInit();
-            this.panel28.ResumeLayout(false);
-            this.panel28.PerformLayout();
-            this.panel29.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView9)).EndInit();
-            this.panel44.ResumeLayout(false);
-            this.panel44.PerformLayout();
-            this.panel45.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView13)).EndInit();
-            this.panel11.ResumeLayout(false);
-            this.panel11.PerformLayout();
-            this.panel12.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).EndInit();
-            this.panel6.ResumeLayout(false);
-            this.panel6.PerformLayout();
-            this.panel7.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
-            this.panel16.ResumeLayout(false);
-            this.panel16.PerformLayout();
-            this.panel17.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView6)).EndInit();
             this.panel73.ResumeLayout(false);
             this.panel73.PerformLayout();
             this.panel74.ResumeLayout(false);
@@ -4429,6 +4299,66 @@
             this.panel9.PerformLayout();
             this.panel10.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView3)).EndInit();
+            this.panel26.ResumeLayout(false);
+            this.panel26.PerformLayout();
+            this.panel27.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView8)).EndInit();
+            this.panel46.ResumeLayout(false);
+            this.panel46.PerformLayout();
+            this.panel47.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView14)).EndInit();
+            this.panel48.ResumeLayout(false);
+            this.panel48.PerformLayout();
+            this.panel49.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView15)).EndInit();
+            this.panel40.ResumeLayout(false);
+            this.panel40.PerformLayout();
+            this.panel43.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView12)).EndInit();
+            this.panel28.ResumeLayout(false);
+            this.panel28.PerformLayout();
+            this.panel29.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView9)).EndInit();
+            this.panel44.ResumeLayout(false);
+            this.panel44.PerformLayout();
+            this.panel45.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView13)).EndInit();
+            this.panel11.ResumeLayout(false);
+            this.panel11.PerformLayout();
+            this.panel12.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView4)).EndInit();
+            this.panel6.ResumeLayout(false);
+            this.panel6.PerformLayout();
+            this.panel7.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
+            this.panel16.ResumeLayout(false);
+            this.panel16.PerformLayout();
+            this.panel17.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView6)).EndInit();
+            this.panel30.ResumeLayout(false);
+            this.panel31.ResumeLayout(false);
+            this.panel31.PerformLayout();
+            this.panel32.ResumeLayout(false);
+            this.panel32.PerformLayout();
+            this.panel41.ResumeLayout(false);
+            this.panel41.PerformLayout();
+            this.panel42.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.dataGridView11)).EndInit();
+            this.panel50.ResumeLayout(false);
+            this.panel51.ResumeLayout(false);
+            this.panel51.PerformLayout();
+            this.panel52.ResumeLayout(false);
+            this.panel52.PerformLayout();
+            this.panel53.ResumeLayout(false);
+            this.panel54.ResumeLayout(false);
+            this.panel54.PerformLayout();
+            this.panel55.ResumeLayout(false);
+            this.panel55.PerformLayout();
+            this.panel67.ResumeLayout(false);
+            this.panel68.ResumeLayout(false);
+            this.panel68.PerformLayout();
+            this.panel69.ResumeLayout(false);
+            this.panel69.PerformLayout();
             this.ResumeLayout(false);
 
         }
@@ -4480,7 +4410,6 @@
         private System.Windows.Forms.TextBox textBox10;
         private System.Windows.Forms.Panel panel14;
         private System.Windows.Forms.Button button16;
-        private System.Windows.Forms.Button button17;
         private System.Windows.Forms.Button button18;
         private System.Windows.Forms.TextBox textBox11;
         private System.Windows.Forms.Panel panel15;
@@ -4710,14 +4639,10 @@
         private System.Windows.Forms.TextBox textBox134;
         private System.Windows.Forms.Panel panel69;
         private System.Windows.Forms.TextBox textBox135;
-        private System.Windows.Forms.TextBox textBox136;
-        private System.Windows.Forms.TextBox textBox137;
         private System.Windows.Forms.TextBox textBox138;
         private System.Windows.Forms.TextBox textBox139;
         private System.Windows.Forms.TextBox textBox140;
         private System.Windows.Forms.TextBox textBox141;
-        private System.Windows.Forms.TextBox textBox142;
-        private System.Windows.Forms.TextBox textBox143;
         private System.Windows.Forms.TextBox textBox144;
         private System.Windows.Forms.TextBox textBox145;
         private System.Windows.Forms.TextBox textBox146;
